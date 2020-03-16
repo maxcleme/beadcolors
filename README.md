@@ -1,1 +1,64 @@
-# beads-color-chart
+# Beads Color Charts
+
+## Context
+
+Since several years, in the fusing beads community, we saw a bunch of Google Spreadsheet defining beads colors in color code formats. However these Sheets ofter lacks of updates or correctness.
+
+This project aims to centralize, maintain and expose an exhaustive list of all beads colors references using GitHub.
+
+## Support
+
+
+
+| Brands | Color Count | Official | 
+| -------- | -------- | -------- | 
+| Hama     | 50     | 0% |
+| Perler     | 56     |  0% |
+| Nabbi    | 29     | 0% |
+| Artkal     | 107     | 0% |
+
+
+
+
+## Format
+
+In order to prevent breaking change in the future, this repository is organized in severals folders : 
+
+
+| Folder | Description |
+| -------- | -------- |
+| `/raw`     | Very simple `.csv` for each brands, in the following format :<br/><br/> `[reference_code, name, rgb_a, rgb_g, rgb_b]` <br/><br/>**Note: Contribution should be made on this folder, orders folders will be generated with Github Actions.**|
+| `/v1`     | Very simple `.csv` for each brands, in the following format :<br/><br/> `[reference_code, name, rgb_a, rgb_g, rgb_b, rgb_hex]` |
+
+
+
+## Contribution
+
+Simply create a PR applying modification under `/raw` folder **only**.
+
+**If you are updating references, you should provide explanation about why your reference is more accurate than the current one.**
+
+
+## Exposition
+
+
+| Method | Status | Usage |
+| -------- | -------- | -------- |
+| Static files     | *Coming soon*     | -     |
+| Browsing website     | *Coming soon*     | -     |
+| API     | *Coming soon*     | -     |
+
+
+
+## Automation
+
+
+Goal of automation are multiple : 
+1. Maintain only `raw` folder, contains minimal data, only `[ref, name, r, g, b]`
+2. Enhance the `raw` folder by adding new fields to each color reference (eg: `hex`, `hsl`, `lab`)
+3. Generate bunch of format (eg: `csv`, `json`, `yaml`) 
+
+
+Currently, only the `v1` folder is generated based on the `raw` folder. 
+
+`v1` folder is more a proof of concept of what it could be done in a later time.
