@@ -6,34 +6,34 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
-    - name: Test Generation
-      uses: docker://golang:latest
-      with:
-        entrypoint: /bin/sh
-        args: |
-          -c "\
-          go run generation/*.go raw/ gen/
-    - name: Generation
-      uses: docker://golang:latest
-      if: "contains(github.ref, 'master') && !contains(toJSON(github.event.commits.*.msg), '[skip-ci]')"
-      with:
-        entrypoint: /bin/sh
-        args: |
-          -c "\
-          go run generation/*.go raw/ gen/
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add gen/
-          git commit -m 'chore(ci): update' -m '[skip-ci]'"
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      if: "contains(github.ref, 'master') && !contains(toJSON(github.event.commits.*.msg), '[skip-ci]')"
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-    - name: Bump version and push tag
-      uses: anothrNick/github-tag-action@master
-      if: "contains(github.ref, 'master') && !contains(toJSON(github.event.commits.*.msg), '[skip-ci]')"
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        WITH_V: true
+      - uses: actions/checkout@master
+      - name: Test Generation
+        uses: docker://golang:latest
+        with:
+          entrypoint: /bin/sh
+          args: |
+            -c "\
+            go run generation/*.go raw/ gen/
+      - name: Generation
+        uses: docker://golang:latest
+        if: "contains(github.ref, 'master') && !contains(toJSON(github.event.commits.*.msg), '[skip-ci]')"
+        with:
+          entrypoint: /bin/sh
+          args: |
+            -c "\
+            go run generation/*.go raw/ gen/ &&
+            git config --local user.email "action@github.com" &&
+            git config --local user.name "GitHub Action" &&
+            git add gen/ &&
+            git commit -m 'chore(ci): update' -m '[skip-ci]'"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        if: "contains(github.ref, 'master') && !contains(toJSON(github.event.commits.*.msg), '[skip-ci]')"
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Bump version and push tag
+        uses: anothrNick/github-tag-action@master
+        if: "contains(github.ref, 'master') && !contains(toJSON(github.event.commits.*.msg), '[skip-ci]')"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WITH_V: true
