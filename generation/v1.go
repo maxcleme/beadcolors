@@ -11,6 +11,6 @@ func V1(r, g, b int) ([]string, error) {
 		strconv.Itoa(r),
 		strconv.Itoa(g),
 		strconv.Itoa(b),
-		fmt.Sprintf("#%X%X%X", r, g, b),
+		fmt.Sprintf("#%02X%02X%02X", r, g, b),
 	}, nil
 }
