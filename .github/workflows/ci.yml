@@ -37,7 +37,7 @@ jobs:
           WITH_V: true
       - name: Build website docker image
         if: "contains(github.ref, 'master') && !contains(toJSON(github.event.commits.*.msg), '[skip-ci]')"
-        run: docker build . --tag maxcleme/beadcolors:$GITHUB_SHA
+        run: docker build --tag maxcleme/beadcolors:$GITHUB_SHA -f Dockerfile.website .
       - name: Publish to registry
         if: "contains(github.ref, 'master') && !contains(toJSON(github.event.commits.*.msg), '[skip-ci]')"
         uses: elgohr/Publish-Docker-Github-Action@master
