@@ -1,4 +1,4 @@
-# Beads Color Charts
+# Bead Colors
 
 ## Context
 

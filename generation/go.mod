@@ -1,3 +1,3 @@
-module github.com/maxcleme/beads-color-chart/generation
+module github.com/maxcleme/beadcolors/generation
 
 go 1.13

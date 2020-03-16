@@ -1,4 +1,4 @@
-name: Beads Color Chart CI
+name: Bead Colors CI
 
 on: [push]
 
@@ -29,8 +29,20 @@ jobs:
             git commit -m 'chore(ci): update' -m '[skip-ci]' && \
             git push origin master"
       - name: Bump version and push tag
+        id: tagging
         uses: anothrNick/github-tag-action@master
         if: "contains(github.ref, 'master') && !contains(toJSON(github.event.commits.*.msg), '[skip-ci]')"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           WITH_V: true
+      - name: Build website docker image
+        if: "contains(github.ref, 'master') && !contains(toJSON(github.event.commits.*.msg), '[skip-ci]')"
+        run: docker build . --tag maxcleme/beadcolors:$GITHUB_SHA
+      - name: Publish to registry
+        if: "contains(github.ref, 'master') && !contains(toJSON(github.event.commits.*.msg), '[skip-ci]')"
+        uses: elgohr/Publish-Docker-Github-Action@master
+        with:
+          name: maxcleme/beadcolors
+          username: ${{ secrets.DOCKER_USERNAME }}
+          password: ${{ secrets.DOCKER_PASSWORD }}
+          tags: ${{ steps.tagging.outputs.new_tag }},latest

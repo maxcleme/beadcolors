@@ -1,0 +1,31 @@
+{{ define "main" }}
+    <main aria-role="main">
+        <div class="homepage-content">
+            {{ range (readDir "./csv/raw") }}
+                <article class="cf ph3 ph5-l pv3 pv4-l f4 lh-copy mid-gray">
+                    <h1 style="text-decoration: underline;">{{ substr (.Name | humanize) 0 -4 }}</h1>
+                    <table class="w-100 center tc-l">
+                        <thead>
+                        <tr>
+                            <th class="w-25"></th>
+                            <th class="w-25"></th>
+                            <th class="w-50"></th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        {{ $url := print "./csv/raw/" .Name }}
+                        {{ $sep := "," }}
+                        {{ range $i, $r := getCSV $sep $url }}
+                            <tr>
+                                <td style="text-align: left;"><strong>{{ index $r 0 }}</strong></td>
+                                <td style="text-align: left;"><i>{{ index $r 1 }}</i></td>
+                                <td style="background-color: rgb({{ index $r 2 }},{{ index $r 3 }},{{ index $r 4 }})"></td>
+                            </tr>
+                        {{ end }}
+                        </tbody>
+                    </table>
+                </article>
+            {{end }}
+        </div>
+    </main>
+{{ end }}
