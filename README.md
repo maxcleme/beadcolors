@@ -28,7 +28,7 @@ In order to prevent breaking change in the future, this repository is organized 
 | Folder | Description |
 | -------- | -------- |
 | `/raw`     | Very simple `.csv` for each brands, in the following format :<br/><br/> `[reference_code, name, rgb_a, rgb_g, rgb_b]` <br/><br/>**Note: Contribution should be made on this folder, orders folders will be generated with Github Actions.**|
-| `/v1`     | Very simple `.csv` for each brands, in the following format :<br/><br/> `[reference_code, name, rgb_a, rgb_g, rgb_b, rgb_hex]` |
+| `/v1`     | `[reference_code, name, rgb_a, rgb_g, rgb_b, rgb_hex]` |
 
 
 
@@ -42,11 +42,11 @@ Simply create a PR applying modification under `/raw` folder **only**.
 ## Exposition
 
 
-| Method | Status | Usage |
-| -------- | -------- | -------- |
-| Static files     | *Coming soon*     | -     |
-| Browsing website     | *Coming soon*     | -     |
-| API     | *Coming soon*     | -     |
+| Method |  Usage |
+| -------- | -------- |
+| Browsing website     | [Beadscolors](https://beadcolors.eremes.xyz/) |     
+| Static files     | <ul><li>[Artkal](https://beadcolors.eremes.xyz/raw/artkal.csv)</li><li>[Hama](https://beadcolors.eremes.xyz/raw/hama.csv)</li><li>[Nabbi](https://beadcolors.eremes.xyz/raw/nabbi.csv)</li><li>[Perler](https://beadcolors.eremes.xyz/raw/perler.csv)</li></ul>     |
+| API     | *Coming soon*     |
 
 
 
