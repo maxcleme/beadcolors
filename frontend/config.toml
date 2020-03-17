@@ -2,3 +2,6 @@ baseURL = "https://beadcolors.eremes.xyz/"
 languageCode = "en-us"
 title = "Bead Colors"
 theme = "ananke"
+
+[params]
+  favicon = "favicon.ico"
