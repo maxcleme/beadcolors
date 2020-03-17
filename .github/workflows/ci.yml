@@ -35,14 +35,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           WITH_V: true
-      - name: Build website docker image
-        if: "contains(github.ref, 'master') && !contains(toJSON(github.event.commits.*.msg), '[skip-ci]')"
-        run: docker build --tag maxcleme/beadcolors:$GITHUB_SHA -f Dockerfile.website .
       - name: Publish to registry
         if: "contains(github.ref, 'master') && !contains(toJSON(github.event.commits.*.msg), '[skip-ci]')"
         uses: elgohr/Publish-Docker-Github-Action@master
         with:
           name: maxcleme/beadcolors
+          dockerfile: Dockerfile.website
           username: ${{ secrets.DOCKER_USERNAME }}
           password: ${{ secrets.DOCKER_PASSWORD }}
           tags: ${{ steps.tagging.outputs.new_tag }},latest
