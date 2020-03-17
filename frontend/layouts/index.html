@@ -1,7 +1,7 @@
 {{ define "main" }}
     <main aria-role="main">
         <div class="homepage-content">
-            {{ range (readDir "./csv/raw") }}
+            {{ range (readDir "./static/raw") }}
                 <article class="cf ph3 ph5-l pv3 pv4-l f4 lh-copy mid-gray">
                     <h1 style="text-decoration: underline;">{{ substr (.Name | humanize) 0 -4 }}</h1>
                     <table class="w-100 center tc-l">
@@ -13,7 +13,7 @@
                         </tr>
                         </thead>
                         <tbody>
-                        {{ $url := print "./csv/raw/" .Name }}
+                        {{ $url := print "./static/raw/" .Name }}
                         {{ $sep := "," }}
                         {{ range $i, $r := getCSV $sep $url }}
                             <tr>

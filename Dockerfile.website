@@ -1,7 +1,7 @@
 FROM jguyomard/hugo-builder:latest AS builder
 
 COPY frontend app
-COPY raw app/csv/
+COPY raw app/static/raw
 WORKDIR app/
 RUN hugo
 
