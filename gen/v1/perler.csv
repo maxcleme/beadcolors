@@ -1,57 +1,67 @@
-P01,White,241,241,241,#F1F1F1
-P02,Cream,224,222,169,#E0DEA9
-P03,Yellow,236,216,0,#ECD800
-P04,Orange,237,97,32,#ED6120
-P05,Red,191,46,64,#BF2E40
-P06,Bubblegum,221,102,155,#DD669B
-P07,Purple,96,64,137,#604089
-P08,Dark Blue,43,63,135,#2B3F87
-P69,Light Blue,51,112,192,#3370C0
-P10,Dark Green,28,117,62,#1C753E
-P100,Pearl Coral,249,126,121,#F97E79
-P101,Pearl Light Blue,122,174,162,#7AAEA2
-p102,Pearl Green,132,183,145,#84B791
-P103,Pearl Yellow,202,192,51,#CAC033
-P104,Pearl Light Pink,215,168,162,#D7A8A2
-P105,Silver,119,123,129,#777B81
-P11,Light Green,86,186,159,#56BA9F
-P12,Brown,81,57,49,#513931
-P17,Grey,138,141,145,#8A8D91
-P18,Black,46,47,50,#2E2F32
-P20,Rust,140,55,44,#8C372C
-P21,Light Brown,129,93,52,#815D34
-P80,Peach,238,186,178,#EEBAB2
-P35,Tan,188,147,113,#BC9371
-P38,Magenta,242,42,123,#F22A7B
-P47,Neon Yellow,220,224,2,#DCE002
-P48,Neon Orange,255,119,0,#FF7700
-P49,Neon Green,1,158,67,#019E43
-P50,Neon Pink,255,57,145,#FF3991
-P52,Pastel Blue,83,144,209,#5390D1
-P53,Pastel Green,118,200,130,#76C882
-P54,Pastel Lavender,138,114,193,#8A72C1
-P56,Pastel Yellow,254,248,117,#FEF875
-P57,Chedder,241,170,12,#F1AA0C
-P58,Toothpaste,147,200,212,#93C8D4
-P59,Hot Coral,255,56,81,#FF3851
-P60,Plum,162,75,156,#A24B9C
-P61,Kiwi Lime,108,190,19,#6CBE13
-P62,Cyan,43,137,198,#2B89C6
-P63,Blush,255,130,133,#FF8285
-P70,Periwinkle Blue,100,124,190,#647CBE
-P75,Glow Green,190,198,150,#BEC696
-P79,Light Pink,246,179,221,#F6B3DD
-P80,Bright Green,79,173,66,#4FAD42
-P81,Light Gray,177,181,178,#B1B5B2
-P179,Evergreen,53,83,67,#355343
-P82,Lavender,173,152,212,#AD98D4
-P83,Pink,228,72,146,#E44892
-P85,Gold,187,118,52,#BB7634
-P88,Raspberry,165,48,97,#A53061
-P90,Butterscotch,212,132,55,#D48437
-P91,Parrot Green,6,124,129,#067C81
-P92,Dark Grey,77,81,86,#4D5156
-P93,Blueberry Cream,130,151,217,#8297D9
-P96,Cranapple,128,50,69,#803245
-P97,Prickly Pear,189,218,1,#BDDA01
-P98,Sand,228,182,144,#E4B690
+80-15179,Evergreen,48,85,69,#305545,Perlervault
+80-15181,Light Grey,179,186,184,#B3BAB8,Perlervault
+80-15182,Lavender,175,159,206,#AF9FCE,Perlervault
+80-15199,Shamrock,0,143,83,#008F53,Perlervault
+80-15200,Cobalt,0,101,177,#0065B1,Perlervault
+80-15201,Midnight,47,60,85,#2F3C55,Perlervault
+80-15202,Robin's Egg,169,205,213,#A9CDD5,Perlervault
+80-15203,Flamingo,242,175,183,#F2AFB7,Perlervault
+80-15204,Salmon,225,116,122,#E1747A,Perlervault
+80-15205,Fawn,201,163,133,#C9A385,Perlervault
+80-15206,Pewter,148,161,157,#94A19D,Perlervault
+80-15207,Charcoal,79,89,90,#4F595A,Perlervault
+80-15208,Toasted Marshmallow,222,218,206,#DEDACE,Perlervault
+80-15210,Orchid,177,98,142,#B1628E,Perlervault
+80-15211,Tomato,209,67,55,#D14337,Perlervault
+80-15212,Spice,217,89,58,#D9593A,Perlervault
+80-15213,Apricot,245,161,104,#F5A168,Perlervault
+80-15214,Sherbet,216,228,124,#D8E47C,Perlervault
+80-15215,Mist,147,176,189,#93B0BD,Perlervault
+80-15216,Sky,74,192,216,#4AC0D8,Perlervault
+80-15217,Lagoon,0,164,172,#00A4AC,Perlervault
+80-15218,Teal,4,127,138,#047F8A,Perlervault
+80-15219,Fern,127,151,26,#7F971A,Perlervault
+80-15220,Olive,105,110,49,#696E31,Perlervault
+80-15961,Cherry,157,43,58,#9D2B3A,Perlervault
+80-19001,White,234,239,238,#EAEFEE,Perlervault
+80-19002,Creme,225,226,187,#E1E2BB,Perlervault
+80-19003,Yellow,231,206,62,#E7CE3E,Perlervault
+80-19004,Orange,235,123,49,#EB7B31,Perlervault
+80-19005,Red,176,53,60,#B0353C,Perlervault
+80-19006,Bubblegum,216,114,154,#D8729A,Perlervault
+80-19007,Purple,104,75,134,#684B86,Perlervault
+80-19008,Dark Blue,14,80,146,#0E5092,Perlervault
+80-19009,Light Blue,39,140,201,#278CC9,Perlervault
+80-19010,Dark Green,0,123,78,#007B4E,Perlervault
+80-19011,Light Green,24,199,177,#18C7B1,Perlervault
+80-19012,Brown,103,76,68,#674C44,Perlervault
+80-19017,Grey,144,148,151,#909497,Perlervault
+80-19018,Black,50,50,52,#323234,Perlervault
+80-19020,Rust,153,80,67,#995043,Perlervault
+80-19021,Light Brown,147,104,72,#936848,Perlervault
+80-19033,Peach,233,191,185,#E9BFB9,Perlervault
+80-19035,Tan,197,172,144,#C5AC90,Perlervault
+80-19038,Magenta,224,66,132,#E04284,Perlervault
+80-19052,Pastel Blue,74,156,207,#4A9CCF,Perlervault
+80-19053,Pastel Green,109,204,148,#6DCC94,Perlervault
+80-19054,Pastel Lavender,147,127,191,#937FBF,Perlervault
+80-19056,Pastel Yellow,233,226,144,#E9E290,Perlervault
+80-19057,Cheddar,251,177,70,#FBB146,Perlervault
+80-19058,Toothpaste,150,209,212,#96D1D4,Perlervault
+80-19059,Hot Coral,221,89,91,#DD595B,Perlervault
+80-19060,Plum,167,93,157,#A75D9D,Perlervault
+80-19061,Kiwi Lime,105,184,69,#69B845,Perlervault
+80-19062,Turquoise,0,152,197,#0098C5,Perlervault
+80-19063,Blush,249,146,151,#F99297,Perlervault
+80-19070,Periwinkle Blue,102,131,183,#6683B7,Perlervault
+80-19079,Light Pink,225,188,206,#E1BCCE,Perlervault
+80-19080,Green,77,171,100,#4DAB64,Perlervault
+80-19083,Pink,212,84,150,#D45496,Perlervault
+80-19088,Raspberry,152,56,100,#983864,Perlervault
+80-19090,Butterscotch,218,153,100,#DA9964,Perlervault
+80-19091,Parrot Green,0,145,136,#009188,Perlervault
+80-19092,Dark Grey,88,92,97,#585C61,Perlervault
+80-19093,Blueberry Creme,133,168,227,#85A8E3,Perlervault
+80-19096,Cranapple,132,57,71,#843947,Perlervault
+80-19097,Prickly Pear,187,201,56,#BBC938,Perlervault
+80-19098,Sand,229,190,158,#E5BE9E,Perlervault
