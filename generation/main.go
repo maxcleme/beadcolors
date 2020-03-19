@@ -45,12 +45,13 @@ func main() {
 
 			w := csv.NewWriter(dest)
 			for _, l := range lines {
-				// Raw .csv contains only 5 columns [ref, name, r, g, b]
-				if len(l) != 5 {
-					return fmt.Errorf("main: invalid raw format")
+				// Raw .csv contains only 6 columns [ref, name, r, g, b, contributor]
+				if len(l) != 6 {
+					return fmt.Errorf("main: invalid raw format : %s", info.Name())
 				}
 				ref := l[0]
 				name := l[1]
+				contributor := l[5]
 				r, g, b, err := parseRGB(l[2], l[3], l[4])
 				if err != nil {
 					return err
@@ -61,7 +62,7 @@ func main() {
 					return err
 				}
 
-				if err := w.Write(append([]string{ref, name}, ss...)); err != nil {
+				if err := w.Write(append([]string{ref, name}, append(ss, contributor)...)); err != nil {
 					return err
 				}
 			}
@@ -93,10 +94,10 @@ func parseRGB(r, g, b string) (int, int, int, error) {
 		return 0, 0, 0, fmt.Errorf("invalid red component : %d", rc)
 	}
 	if gc < 0 || gc > 255 {
-		return 0, 0, 0, fmt.Errorf("invalid green component : %d", rc)
+		return 0, 0, 0, fmt.Errorf("invalid green component : %d", gc)
 	}
 	if bc < 0 || bc > 255 {
-		return 0, 0, 0, fmt.Errorf("invalid blue component : %d", rc)
+		return 0, 0, 0, fmt.Errorf("invalid blue component : %d", bc)
 	}
 
 	return rc, gc, bc, nil

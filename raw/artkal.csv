@@ -1,108 +1,184 @@
-"S01","White",233,231,230
-"S02","Burning Sand",254,144,143
-"S03","Tangerine",254,164,2
-"S04","Orange",253,97,73
-"S05","Tall Poppy",221,52,68
-"S06","Raspberry pink",235,102,190
-"S07","Gray 2",142,143,147
-"S08","Emerald",82,204,106
-"S09","Dark Green",42,93,98
-"S10","Baby Blue",97,168,223
-"S11","Dark Blue",40,68,146
-"S12","Pastel Lavender",137,98,173
-"S13","Black",31,31,33
-"S14","Sandstorm",239,221,6
-"S15","Redwood",124,69,69
-"S16","Brown",120,88,78
-"S17","light brown",89,71,67
-"S18","Sand",206,155,134
-"S19","Bubblegum",237,174,172
-"S20","Green",84,145,96
-"S21","Pastel Green",132,197,81
-"S22","Purple",85,72,137
-"S23","Royal Purple",125,102,173
-"S24","True Blue",57,109,188
-"S25","Hot Pink",254,91,186
-"S26","Magenta",254,66,137
-"S27","Yellow",240,206,1
-"S28","Lily Pink",223,159,205
-"S29","Pastel Yellow",240,226,79
-"S30","Shadow Green",161,198,206
-"S31","Sea Mist",171,218,202
-"S32","Beeswax",248,197,131
-"S33","Maverick",192,174,219
-"S35","Mona Lisa",249,188,193
-"S36","Old Pink",200,103,130
-"S37","Blue Green",132,199,198
-"S38","burgundy",161,48,83
-"S39","Yellow Orange",255,131,75
-"S40","Carnation Pink",253,145,214
-"S41","Copper",157,91,46
-"S42","Silver",103,107,115
-"S43","Gray 3",102,103,106
-"S44","Sky Blue",164,200,232
-"S45","Medium Turquoise",63,152,158
-"S46","Bright Green",168,228,42
-"S47","Marigold",156,116,60
-"S48","Corn",246,191,5
-"S49","Mulberry Wood",120,49,90
-"S50","Mandys Pink",253,164,126
-"S51","Spring Sun",243,217,182
-"S52","Picasso",239,229,109
-"S53","Turquoise",101,147,223
-"S54","Light Blue",26,117,208
-"S55","Pistachio",160,213,137
-"S56","Outrageous Orange",254,127,80
-"S57","Buccaneer",152,78,67
-"S58","Paprika",172,44,68
-"S60","Lavender",166,117,191
-"S61","Key Lemon Pie",187,197,40
-"S62","Green Tea",56,112,97
-"S63","Metallic Gold",105,96,70
-"S64","Black Rock",54,61,92
-"S65","Canary",247,248,57
-"S66","Blaze Orange",253,81,67
-"S67","Vanilla",226,193,178
-"S68","Tan",175,150,102
-"S69","Mine Shaft",67,72,78
-"S70","Dark Algae",146,183,1
-"S71","Jade Green",49,131,50
-"S72","Light Sea Blue",119,191,209
-"S73","Steel blue",91,159,199
-"S74","azure",64,144,192
-"S75","dark steel blue",56,121,166
-"S76","sea blue",59,135,171
-"S77","Ghost white",211,211,208
-"S78","Ash Gray",189,189,187
-"S79","Gray 1",163,167,169
-"S80","Dark Olive",124,137,52
-"S81","Deer",184,138,98
-"S82","Clay",145,106,77
-"S83","Sienna",174,103,53
-"S84","Deep Chestnut",165,87,97
-"S85","Red Wine",140,65,74
-"S86","Goldenrod",233,181,4
-"S87","Coral Red",250,97,106
-"S88","Dark Pink",217,59,128
-"S89","Gray 4",88,92,99
-"S90","Pastel Orange",251,183,73
-"S91","Brunswick Green",52,64,66
-"SG1","Glow Yellow",198,192,180
-"SG2","Glow Pink",223,171,188
-"SG3","Glow Blue",111,173,193
-"SL1","Glitter Blue",54,135,178
-"SL2","Glitter Green",17,124,82
-"SL3","Glitter Red",194,41,51
-"SL4","Glitter Yellow",205,189,0
-"SN1","Neon Orange",255,116,5
-"SN2","Neon Green",1,198,62
-"SN3","Neon Yellow",242,243,60
-"SN4","Neon Rose",255,71,122
-"SP1","Pearlescent Green",147,202,135
-"SP2","Pearlescent Tangerine",254,127,84
-"SP3","Pearlescent Orange",240,161,73
-"SP4","Pearlescent Pink",220,158,169
-"SP5","Pearlescent Red",214,60,83
-"SP6","Pearlescent Blue",44,78,151
-"SP7","Pearlescent Purple",100,66,126
-"SP8","Pearlescent White",224,219,202
+S01,White,234,238,243,Perlervault
+S02,Burning Sand,238,146,124,Perlervault
+S03,Tangerine,255,166,48,Perlervault
+S04,Orange,235,96,39,Perlervault
+S05,Tall Poppy,203,53,49,Perlervault
+S06,Raspberry Pink,239,103,178,Perlervault
+S07,Gray,149,150,152,Perlervault
+S08,Emerald,31,196,103,Perlervault
+S09,Dark Green,0,104,94,Perlervault
+S10,Baby Blue,46,171,216,Perlervault
+S100,Lagoon,39,155,190,Perlervault
+S101,Electric Blue,0,167,227,Perlervault
+S102,Pool Blue,0,119,202,Perlervault
+S103,Caribbian Blue,0,90,169,Perlervault
+S104,Deep Water,0,127,158,Perlervault
+S105,Petrol Blue,0,125,145,Perlervault
+S106,Wegdewood Blue,0,100,154,Perlervault
+S107,Pond Blue,0,108,159,Perlervault
+S108,Seashell Beige,207,193,121,Perlervault
+S109,Beige,196,174,100,Perlervault
+S11,Dark Blue,0,79,164,Perlervault
+S110,Beach Beige,171,151,69,Perlervault
+S111,Caffe Latté,151,129,56,Perlervault
+S112,Oaktree Brown,144,124,65,Perlervault
+S113,Khaki,182,174,132,Perlervault
+S114,Light Greengray,165,159,101,Perlervault
+S115,Mossy Green,147,141,84,Perlervault
+S116,Earth Green,141,139,81,Perlervault
+S117,Sage Green,127,126,73,Perlervault
+S118,Pinetree Green,91,110,53,Perlervault
+S119,Frosty Blue,138,213,201,Perlervault
+S12,Pastel Lavender,145,101,178,Perlervault
+S120,Polar Mint,124,210,165,Perlervault
+S121,Celadon Green,114,172,154,Perlervault
+S122,Eucalyptus,0,178,111,Perlervault
+S123,Clover Field,62,183,36,Perlervault
+S124,Pooltable Felt,13,117,53,Perlervault
+S125,Snake Green,0,125,110,Perlervault
+S126,Dark Eucalyptus,0,110,105,Perlervault
+S127,Marsmallow Rose,223,195,225,Perlervault
+S128,Light Grape,211,142,212,Perlervault
+S129,Rosebud Pink,213,166,186,Perlervault
+S13,Black,41,42,43,Perlervault
+S130,Fuschia,214,102,142,Perlervault
+S131,Candy Violet,184,170,217,Perlervault
+S132,Flamingo,223,72,109,Perlervault
+S133,Pink Plum,188,60,166,Perlervault
+S134,Amethyst,128,56,151,Perlervault
+S135,Moonlight Blue,167,186,225,Perlervault
+S136,Summer Rain,175,184,223,Perlervault
+S137,Azur Blue,107,154,212,Perlervault
+S138,Cornflower Blue,90,137,206,Perlervault
+S139,Forget Me Not,101,138,208,Perlervault
+S14,Sandstorm,225,200,53,Perlervault
+S140,Indigo,86,108,189,Perlervault
+S141,Horizon Blue,77,116,198,Perlervault
+S142,Cobolt,65,109,190,Perlervault
+S143,Royal Blue,48,66,158,Perlervault
+S144,Marine,2,66,136,Perlervault
+S145,Pale Yellow Moss,214,202,106,Perlervault
+S146,Bloodrose Red,157,26,56,Perlervault
+S147,Spearmint,128,183,161,Perlervault
+S148,Mocha,122,89,79,Perlervault
+S149,Creme,239,219,161,Perlervault
+S15,Redwood,154,69,65,Perlervault
+S150,Iris Violet,136,132,208,Perlervault
+S151,Forrest Green,52,86,33,Perlervault
+S152,Lilac,174,173,220,Perlervault
+S153,Pale Lilac,188,195,225,Perlervault
+S154,Sahara Sand,227,192,154,Perlervault
+S155,Sunkissed Teint,197,139,96,Perlervault
+S156,Steel Grey,90,95,101,Perlervault
+S157,Iron Grey,76,81,86,Perlervault
+S158,Pepper,58,62,66,Perlervault
+S159,Oslo Gray,130,135,139,Perlervault
+S16,Brown,101,70,61,Perlervault
+S17,Light Brown,137,93,73,Perlervault
+S18,Sand,220,163,132,Perlervault
+S19,Bubble Gun,242,191,184,Perlervault
+S20,Green,0,144,83,Perlervault
+S21,Pastel Green,139,178,58,Perlervault
+S22,Purple,72,51,126,Perlervault
+S23,Royal Purple,100,79,164,Perlervault
+S24,True Blue,0,120,191,Perlervault
+S25,Hot Pink,220,81,154,Perlervault
+S26,Magenta,218,67,131,Perlervault
+S27,Yellow,234,193,37,Perlervault
+S28,Lily Pink,221,161,204,Perlervault
+S29,Pastel Yellow,225,211,103,Perlervault
+S30,Shadow Green,158,201,205,Perlervault
+S31,Sea Mist,178,215,206,Perlervault
+S32,Beeswax,238,211,158,Perlervault
+S33,Maverick,192,183,215,Perlervault
+S34,Red,182,25,39,Perlervault
+S35,Mona Lisa,225,204,210,Perlervault
+S36,Old Pink,206,109,131,Perlervault
+S37,Blue-Green,96,191,203,Perlervault
+S38,Burgundy,163,19,74,Perlervault
+S39,Yellow Orange,230,135,57,Perlervault
+S40,Carnation Pink,225,130,176,Perlervault
+S41,Copper,157,91,46,LThanda
+S42,Silver,103,107,115,LThanda
+S43,Dark Gray,112,117,123,Perlervault
+S44,Sky Blue,167,205,222,Perlervault
+S45,Medium Turquoise,0,165,161,Perlervault
+S46,Bright Green,142,195,36,Perlervault
+S47,Marigold,178,121,56,Perlervault
+S48,Corn,236,192,61,Perlervault
+S49,Mulberry Wood,146,30,93,Perlervault
+S50,Mandys Pink,226,164,136,Perlervault
+S51,Spring Sun,223,218,189,Perlervault
+S52,Picasso,234,222,127,Perlervault
+S53,Turquoise,85,164,217,Perlervault
+S54,Light Blue,0,132,206,Perlervault
+S55,Pistachio,151,207,135,Perlervault
+S56,Bright Carrot,249,111,64,Perlervault
+S57,Buccaneer,179,85,64,Perlervault
+S58,Paprika,177,24,54,Perlervault
+S59,Butterfly Bush,79,57,137,Perlervault
+S60,Lavender,138,126,194,Perlervault
+S61,Key Lomen Pie,205,192,63,Perlervault
+S62,Green Tea,0,118,95,Perlervault
+S63,Metallic Gold,105,96,70,LThanda
+S64,Black Rock,54,56,77,Perlervault
+S65,Canary,226,230,93,Perlervault
+S66,Blaze Orange,229,83,60,Perlervault
+S67,Vanilla,233,193,166,Perlervault
+S68,Tan,204,155,116,Perlervault
+S69,Mine Shaft,56,62,68,Perlervault
+S70,Drark Algae,173,173,41,Perlervault
+S71,Jade Green,0,125,43,Perlervault
+S72,Light Sea Blue,104,196,210,Perlervault
+S73,Steel Blue,90,176,191,Perlervault
+S74,Azure,0,158,194,Perlervault
+S75,Dark Steel Blue,0,132,178,Perlervault
+S76,Sea Blue,0,147,169,Perlervault
+S77,Ghost While,212,216,211,Perlervault
+S78,Ash Grey,194,196,194,Perlervault
+S79,Light Gray,167,172,173,Perlervault
+S80,Dark Olive,143,142,60,Perlervault
+S81,Deer,191,145,104,Perlervault
+S82,Clay,170,116,78,Perlervault
+S83,Sienna,187,104,51,Perlervault
+S84,Deep Chestnut,190,93,101,Perlervault
+S85,Red Wine,153,50,58,Perlervault
+S86,Goldenrod,232,174,0,Perlervault
+S87,Coral Red,236,98,94,Perlervault
+S88,Dark Pink,214,39,121,Perlervault
+S89,Charcoal Gray,86,90,94,Perlervault
+S90,Pastel Orange,217,179,94,Perlervault
+S91,Brunswick Green,21,56,56,Perlervault
+S92,Dandelion,206,164,51,Perlervault
+S93,Pale Skin,220,183,148,Perlervault
+S94,Warm Blush,221,146,133,Perlervault
+S95,Salmon,224,123,105,Perlervault
+S96,Apricot,239,127,97,Perlervault
+S97,Papaya,220,119,43,Perlervault
+S98,Himalaya Blue,106,174,219,Perlervault
+S99,Waterfall,97,187,211,Perlervault
+SG1,Glow Yellow,198,192,180,LThanda
+SG2,Glow Pink,223,171,188,LThanda
+SG3,Glow Blue,111,173,193,LThanda
+SL1,Glitter Blue,54,135,178,LThanda
+SL2,Glitter Green,17,124,82,LThanda
+SL3,Glitter Red,194,41,51,LThanda
+SL4,Glitter Yellow,205,189,0,LThanda
+SN1,Neon Orange,255,116,5,LThanda
+SN2,Neon Green,1,198,62,LThanda
+SN3,Neon Yellow,242,243,60,LThanda
+SN4,Neon Rose,255,71,122,LThanda
+SP1,Pearlescent Green,147,202,135,LThanda
+SP2,Pearlescent Tangerine,254,127,84,LThanda
+SP3,Pearlescent Orange,240,161,73,LThanda
+SP4,Pearlescent Pink,220,158,169,LThanda
+SP5,Pearlescent Red,214,60,83,LThanda
+SP6,Pearlescent Blue,44,78,151,LThanda
+SP7,Pearlescent Purple,100,66,126,LThanda
+SP8,Pearlescent White,224,219,202,LThanda
+ST1,Transparent,199,188,184,LThanda
+ST2,Transparent Pink,249,84,152,LThanda
+ST3,Transparent Tangering,255,124,69,LThanda
+ST4,Transparent Yellow,218,223,61,LThanda
+ST5,Transparent Green,15,174,88,LThanda
+ST6,Transparent Purple,132,119,179,LThanda

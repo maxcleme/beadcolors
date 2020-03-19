@@ -2,6 +2,7 @@ FROM jguyomard/hugo-builder:latest AS builder
 
 COPY frontend app
 COPY raw app/static/raw
+COPY gen app/static/gen
 WORKDIR app/
 RUN hugo
 

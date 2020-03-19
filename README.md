@@ -12,10 +12,10 @@ This project aims to centralize, maintain and expose an exhaustive list of all b
 
 | Brands | Color Count | Official | 
 | -------- | -------- | -------- | 
-| Hama     | 50     | 0% |
-| Perler     | 56     |  0% |
+| Hama     | 60     | 0% |
+| Perler     | 66     |  0% |
 | Nabbi    | 29     | 0% |
-| Artkal     | 107     | 0% |
+| Artkal     | 183     | 0% |
 
 
 
@@ -27,8 +27,8 @@ In order to prevent breaking change in the future, this repository is organized 
 
 | Folder | Description |
 | -------- | -------- |
-| `/raw`     | Very simple `.csv` for each brands, in the following format :<br/><br/> `[reference_code, name, rgb_a, rgb_g, rgb_b]` <br/><br/>**Note: Contribution should be made on this folder, orders folders will be generated with Github Actions.**|
-| `/v1`     | `[reference_code, name, rgb_a, rgb_g, rgb_b, rgb_hex]` |
+| `/raw`     | Very simple `.csv` for each brands, in the following format :<br/><br/> `[reference_code, name, rgb_a, rgb_g, rgb_b, contributor]` <br/><br/>**Note: Contribution should be made on this folder, orders folders will be generated with Github Actions.**|
+| `/v1`     | `[reference_code, name, rgb_a, rgb_g, rgb_b, rgb_hex, contributor]` |
 
 
 
@@ -54,7 +54,7 @@ Simply create a PR applying modification under `/raw` folder **only**.
 
 
 Goal of automation are multiple : 
-1. Maintain only `raw` folder, contains minimal data, only `[ref, name, r, g, b]`
+1. Maintain only `raw` folder, contains minimal data, only `[ref, name, r, g, b, contributor]`
 2. Enhance the `raw` folder by adding new fields to each color reference (eg: `hex`, `hsl`, `lab`)
 3. Generate bunch of format (eg: `csv`, `json`, `yaml`) 
 

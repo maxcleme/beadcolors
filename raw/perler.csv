@@ -1,57 +1,67 @@
-"P01","White",241,241,241
-"P02","Cream",224,222,169
-"P03","Yellow",236,216,0
-"P04","Orange",237,97,32
-"P05","Red",191,46,64
-"P06","Bubblegum",221,102,155
-"P07","Purple",96,64,137
-"P08","Dark Blue",43,63,135
-"P69","Light Blue",51,112,192
-"P10","Dark Green",28,117,62
-"P100","Pearl Coral",249,126,121
-"P101","Pearl Light Blue",122,174,162
-"p102","Pearl Green",132,183,145
-"P103","Pearl Yellow",202,192,51
-"P104","Pearl Light Pink",215,168,162
-"P105","Silver",119,123,129
-"P11","Light Green",86,186,159
-"P12","Brown",81,57,49
-"P17","Grey",138,141,145
-"P18","Black",46,47,50
-"P20","Rust",140,55,44
-"P21","Light Brown",129,93,52
-"P80","Peach",238,186,178
-"P35","Tan",188,147,113
-"P38","Magenta",242,42,123
-"P47","Neon Yellow",220,224,2
-"P48","Neon Orange",255,119,0
-"P49","Neon Green",1,158,67
-"P50","Neon Pink",255,57,145
-"P52","Pastel Blue",83,144,209
-"P53","Pastel Green",118,200,130
-"P54","Pastel Lavender",138,114,193
-"P56","Pastel Yellow",254,248,117
-"P57","Chedder",241,170,12
-"P58","Toothpaste",147,200,212
-"P59","Hot Coral",255,56,81
-"P60","Plum",162,75,156
-"P61","Kiwi Lime",108,190,19
-"P62","Cyan",43,137,198
-"P63","Blush",255,130,133
-"P70","Periwinkle Blue",100,124,190
-"P75","Glow Green",190,198,150
-"P79","Light Pink",246,179,221
-"P80","Bright Green",79,173,66
-"P81","Light Gray",177,181,178
-"P179","Evergreen",53,83,67
-"P82","Lavender",173,152,212
-"P83","Pink",228,72,146
-"P85","Gold",187,118,52
-"P88","Raspberry",165,48,97
-"P90","Butterscotch",212,132,55
-"P91","Parrot Green",6,124,129
-"P92","Dark Grey",77,81,86
-"P93","Blueberry Cream",130,151,217
-"P96","Cranapple",128,50,69
-"P97","Prickly Pear",189,218,1
-"P98","Sand",228,182,144
+80-15179,Evergreen,48,85,69,Perlervault
+80-15181,Light Grey,179,186,184,Perlervault
+80-15182,Lavender,175,159,206,Perlervault
+80-15199,Shamrock,0,143,83,Perlervault
+80-15200,Cobalt,0,101,177,Perlervault
+80-15201,Midnight,47,60,85,Perlervault
+80-15202,Robin's Egg,169,205,213,Perlervault
+80-15203,Flamingo,242,175,183,Perlervault
+80-15204,Salmon,225,116,122,Perlervault
+80-15205,Fawn,201,163,133,Perlervault
+80-15206,Pewter,148,161,157,Perlervault
+80-15207,Charcoal,79,89,90,Perlervault
+80-15208,Toasted Marshmallow,222,218,206,Perlervault
+80-15210,Orchid,177,98,142,Perlervault
+80-15211,Tomato,209,67,55,Perlervault
+80-15212,Spice,217,89,58,Perlervault
+80-15213,Apricot,245,161,104,Perlervault
+80-15214,Sherbet,216,228,124,Perlervault
+80-15215,Mist,147,176,189,Perlervault
+80-15216,Sky,74,192,216,Perlervault
+80-15217,Lagoon,0,164,172,Perlervault
+80-15218,Teal,4,127,138,Perlervault
+80-15219,Fern,127,151,26,Perlervault
+80-15220,Olive,105,110,49,Perlervault
+80-15961,Cherry,157,43,58,Perlervault
+80-19001,White,234,239,238,Perlervault
+80-19002,Creme,225,226,187,Perlervault
+80-19003,Yellow,231,206,62,Perlervault
+80-19004,Orange,235,123,49,Perlervault
+80-19005,Red,176,53,60,Perlervault
+80-19006,Bubblegum,216,114,154,Perlervault
+80-19007,Purple,104,75,134,Perlervault
+80-19008,Dark Blue,14,80,146,Perlervault
+80-19009,Light Blue,39,140,201,Perlervault
+80-19010,Dark Green,0,123,78,Perlervault
+80-19011,Light Green,24,199,177,Perlervault
+80-19012,Brown,103,76,68,Perlervault
+80-19017,Grey,144,148,151,Perlervault
+80-19018,Black,50,50,52,Perlervault
+80-19020,Rust,153,80,67,Perlervault
+80-19021,Light Brown,147,104,72,Perlervault
+80-19033,Peach,233,191,185,Perlervault
+80-19035,Tan,197,172,144,Perlervault
+80-19038,Magenta,224,66,132,Perlervault
+80-19052,Pastel Blue,74,156,207,Perlervault
+80-19053,Pastel Green,109,204,148,Perlervault
+80-19054,Pastel Lavender,147,127,191,Perlervault
+80-19056,Pastel Yellow,233,226,144,Perlervault
+80-19057,Cheddar,251,177,70,Perlervault
+80-19058,Toothpaste,150,209,212,Perlervault
+80-19059,Hot Coral,221,89,91,Perlervault
+80-19060,Plum,167,93,157,Perlervault
+80-19061,Kiwi Lime,105,184,69,Perlervault
+80-19062,Turquoise,0,152,197,Perlervault
+80-19063,Blush,249,146,151,Perlervault
+80-19070,Periwinkle Blue,102,131,183,Perlervault
+80-19079,Light Pink,225,188,206,Perlervault
+80-19080,Green,77,171,100,Perlervault
+80-19083,Pink,212,84,150,Perlervault
+80-19088,Raspberry,152,56,100,Perlervault
+80-19090,Butterscotch,218,153,100,Perlervault
+80-19091,Parrot Green,0,145,136,Perlervault
+80-19092,Dark Grey,88,92,97,Perlervault
+80-19093,Blueberry Creme,133,168,227,Perlervault
+80-19096,Cranapple,132,57,71,Perlervault
+80-19097,Prickly Pear,187,201,56,Perlervault
+80-19098,Sand,229,190,158,Perlervault
