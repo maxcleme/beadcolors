@@ -12,7 +12,7 @@ This project aims to centralize, maintain and expose an exhaustive list of all b
 
 | Brands | Color Count | Official | 
 | -------- | -------- | -------- | 
-| Hama     | 60     | 0% |
+| Hama     | 56     | 0% |
 | Perler     | 66     |  0% |
 | Nabbi    | 29     | 0% |
 | Artkal     | 183     | 0% |
