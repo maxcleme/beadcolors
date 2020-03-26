@@ -22,13 +22,13 @@ This project aims to centralize, maintain and expose an exhaustive list of all b
 
 ## Format
 
-In order to prevent breaking change in the future, this repository is organized in severals folders : 
-
+In order to prevent breaking change in the future, this repository is organized in several folders : 
 
 | Folder | Description |
 | -------- | -------- |
 | `/raw`     | Very simple `.csv` for each brands, in the following format :<br/><br/> `[reference_code, name, rgb_a, rgb_g, rgb_b, contributor]` <br/><br/>**Note: Contribution should be made on this folder, orders folders will be generated with Github Actions.**|
 | `/v1`     | `[reference_code, name, rgb_a, rgb_g, rgb_b, rgb_hex, contributor]` |
+| `/v2`     | `[reference_code, name, rgb_a, rgb_g, rgb_b, hsl_h, hsl_s, hsl_l, lab_l, lab_a, lab_b, contributor]` |
 
 
 
