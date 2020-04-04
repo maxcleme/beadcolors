@@ -1,31 +1,31 @@
-H01,White,211,212,210,#D3D4D2,Jeppewl
-H02,Cream,213,206,163,#D5CEA3,Jeppewl
-H03,Yellow,231,178,1,#E7B201,Jeppewl
-H04,Orange,231,70,1,#E74601,Jeppewl
-H05,Red,208,2,1,#D00201,Jeppewl
-H06,Pink,236,123,144,#EC7B90,Jeppewl
-H07,Purple,120,21,125,#78157D,Jeppewl
-H08,Blue,1,56,158,#01389E,Jeppewl
-H09,Light blue,1,88,188,#0158BC,Jeppewl
-H10,Green,1,120,56,#017838,Jeppewl
-H11,Light green,0,192,142,#00C08E,Jeppewl
-H12,Brown,75,43,19,#4B2B13,Jeppewl
+H01,White,229,236,241,#E5ECF1,Jeppewl
+H02,Cream,228,228,197,#E4E4C5,Jeppewl
+H03,Yellow,233,199,4,#E9C704,Jeppewl
+H04,Orange,209,72,3,#D14803,Jeppewl
+H05,Red,180,6,14,#B4060E,Jeppewl
+H06,Pink,234,138,165,#EA8AA5,Jeppewl
+H07,Purple,113,34,151,#712297,Jeppewl
+H08,Blue,2,57,163,#0239A3,Jeppewl
+H09,Light blue,2,91,195,#025BC3,Jeppewl
+H10,Green,2,118,67,#027643,Jeppewl
+H11,Light green,25,205,167,#19CDA7,Jeppewl
+H12,Brown,62,39,26,#3E271A,Jeppewl
 H13,Transparent Red,192,36,53,#C02435,LThanda
 H16,Transparent Green,55,184,118,#37B876,LThanda
-H17,Grey,126,132,133,#7E8485,Jeppewl
-H18,Black,34,29,28,#221D1C,Jeppewl
+H17,Grey,131,143,152,#838F98,Jeppewl
+H18,Black,20,19,21,#141315,Jeppewl
 H19,Clear,216,210,206,#D8D2CE,LThanda
-H20,Reddish brown,150,39,3,#962703,Jeppewl
-H21,Light brown,196,102,11,#C4660B,Jeppewl
-H22,Dark red,183,4,10,#B7040A,Jeppewl
+H20,Reddish brown,141,42,15,#8D2A0F,Jeppewl
+H21,Light brown,190,108,33,#BE6C21,Jeppewl
+H22,Dark red,145,2,10,#91020A,Jeppewl
 H24,Translucent Purple,104,62,154,#683E9A,LThanda
 H25,Translucent Brown,135,89,61,#87593D,LThanda
-H26,Flesh,230,146,123,#E6927B,Jeppewl
-H27,Beige,208,158,107,#D09E6B,Jeppewl
-H28,Dark green,22,55,34,#163722,Jeppewl
-H29,Claret,195,0,50,#C30032,Jeppewl
-H30,Burgundy,98,19,24,#621318,Jeppewl
-H31,Turquoise,8,136,159,#08889F,Jeppewl
+H26,Flesh,232,164,152,#E8A498,Jeppewl
+H27,Beige,220,177,142,#DCB18E,Jeppewl
+H28,Dark green,30,44,28,#1E2C1C,Jeppewl
+H29,Claret,191,1,66,#BF0142,Jeppewl
+H30,Burgundy,78,12,27,#4E0C1B,Jeppewl
+H31,Turquoise,72,154,185,#489AB9,Jeppewl
 H32,Neon Pink (Fucsia),255,32,141,#FF208D,LThanda
 H33,Cerise,255,57,86,#FF3956,LThanda
 H34,Neon Yellow,229,239,19,#E5EF13,LThanda
@@ -37,21 +37,21 @@ H39,Fluorescent Yellow,241,242,28,#F1F21C,LThanda
 H40,Fluorescent Orange,254,99,11,#FE630B,LThanda
 H41,Fluorescent Blue,38,89,178,#2659B2,LThanda
 H42,Fluorescent Green,12,189,81,#0CBD51,LThanda
-H43,Pastel Yellow,240,234,55,#F0EA37,LThanda
-H44,Pastel red,246,76,64,#F64C40,Jeppewl
-H45,Pastel purple,144,95,188,#905FBC,Jeppewl
-H46,Pastel blue,27,162,208,#1BA2D0,Jeppewl
-H47,Pastel green,99,198,97,#63C661,Jeppewl
-H48,Pastel pink,215,87,175,#D757AF,Jeppewl
-H49,Azure,0,158,184,#009EB8,Jeppewl
-H60,Teddybear brown,221,137,1,#DD8901,Jeppewl
-H70,Light grey,154,161,167,#9AA1A7,Jeppewl
-H71,Dark grey,72,78,81,#484E51,Jeppewl
-H75,Tan,186,126,77,#BA7E4D,Jeppewl
-H76,Nougat,141,83,36,#8D5324,Jeppewl
-H77,Cloudy white,196,190,175,#C4BEAF,Jeppewl
-H78,Light flesh,229,166,132,#E5A684,Jeppewl
-H79,Aprikot,242,100,1,#F26401,Jeppewl
-H82,Plum,145,2,74,#91024A,Jeppewl
-H83,Petrol blue,0,107,137,#006B89,Jeppewl
-H84,Olive green,99,104,15,#63680F,Jeppewl
+H43,Pastel Yellow,231,228,90,#E7E45A,Jeppewl
+H44,Pastel red,249,97,96,#F96160,Jeppewl
+H45,Pastel purple,142,105,205,#8E69CD,Jeppewl
+H46,Pastel blue,81,174,228,#51AEE4,Jeppewl
+H47,Pastel green,128,223,150,#80DF96,Jeppewl
+H48,Pastel pink,214,122,209,#D67AD1,Jeppewl
+H49,Azure,15,172,209,#0FACD1,Jeppewl
+H60,Teddybear brown,240,152,30,#F0981E,Jeppewl
+H70,Light grey,165,179,192,#A5B3C0,Jeppewl
+H71,Dark grey,68,80,89,#445059,Jeppewl
+H75,Tan,183,140,109,#B78C6D,Jeppewl
+H76,Nougat,138,89,55,#8A5937,Jeppewl
+H77,Cloudy white,206,209,200,#CED1C8,Jeppewl
+H78,Light flesh,247,193,170,#F7C1AA,Jeppewl
+H79,Aprikot,248,118,51,#F87633,Jeppewl
+H82,Plum,145,23,90,#91175A,Jeppewl
+H83,Petrol blue,3,122,159,#037A9F,Jeppewl
+H84,Olive green,104,120,54,#687836,Jeppewl
