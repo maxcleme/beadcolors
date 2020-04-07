@@ -1,0 +1,145 @@
+C01,White,234,238,243,#EAEEF3,Perlervault
+C02,Black,41,42,43,#292A2B,Perlervault
+C03,Tangerine,255,166,48,#FFA630,Perlervault
+C04,Yellow Orange,230,135,57,#E68739,Perlervault
+C05,Tall Poppy,203,53,49,#CB3531,Perlervault
+C06,Red,182,25,39,#B61927,Perlervault
+C07,Carnation Pink,225,130,176,#E182B0,Perlervault
+C08,Hot Pink,220,81,154,#DC519A,Perlervault
+C09,Magenta,218,67,131,#DA4383,Perlervault
+C10,Picasso,234,222,127,#EADE7F,Perlervault
+C11,Yellow,234,193,37,#EAC125,Perlervault
+C12,Pistachio,151,207,135,#97CF87,Perlervault
+C13,Pastel Green,139,178,58,#8BB23A,Perlervault
+C14,Green,0,144,83,#009053,Perlervault
+C15,Green Tea,0,118,95,#00765F,Perlervault
+C16,Bright Carrot,249,111,64,#F96F40,Perlervault
+C17,Orange,235,96,39,#EB6027,Perlervault
+C18,Sky Blue,167,205,222,#A7CDDE,Perlervault
+C19,Baby Blue,46,171,216,#2EABD8,Perlervault
+C20,Light Blue,0,132,206,#0084CE,Perlervault
+C21,Dark Blue,0,79,164,#004FA4,Perlervault
+C22,Bubble Gun,242,191,184,#F2BFB8,Perlervault
+C23,Sand,220,163,132,#DCA384,Perlervault
+C24,Beeswax,238,211,158,#EED39E,Perlervault
+C25,Lavender,138,126,194,#8A7EC2,Perlervault
+C26,Pastel Lavender,145,101,178,#9165B2,Perlervault
+C27,Purple,72,51,126,#48337E,Perlervault
+C28,Marigold,178,121,56,#B27938,Perlervault
+C29,Buccaneer,179,85,64,#B35540,Perlervault
+C30,Redwood,154,69,65,#9A4541,Perlervault
+C31,Light Brown,137,93,73,#895D49,Perlervault
+C32,Brown,101,70,61,#65463D,Perlervault
+C33,Gray,149,150,152,#959698,Perlervault
+C34,Dark Gray,112,117,123,#70757B,Perlervault
+C35,Silver,103,107,115,#676B73,LThanda
+C36,Old Pink,206,109,131,#CE6D83,Perlervault
+C37,True Blue,0,120,191,#0078BF,Perlervault
+C38,Turquoise,85,164,217,#55A4D9,Perlervault
+C39,Shadow Green,158,201,205,#9EC9CD,Perlervault
+C40,Key Lomen Pie,205,192,63,#CDC03F,Perlervault
+C41,Pastel Yellow,225,211,103,#E1D367,Perlervault
+C42,Sandstorm,225,200,53,#E1C835,Perlervault
+C43,Paprika,177,24,54,#B11836,Perlervault
+C44,Burning Sand,238,146,124,#EE927C,Perlervault
+C46,Canary,226,230,93,#E2E65D,Perlervault
+C47,Vanilla,233,193,166,#E9C1A6,Perlervault
+C48,Corn,236,192,61,#ECC03D,Perlervault
+C49,Raspberry Pink,239,103,178,#EF67B2,Perlervault
+C50,Maverick,192,183,215,#C0B7D7,Perlervault
+C51,Spring Sun,223,218,189,#DFDABD,Perlervault
+C52,Butterfly Bush,79,57,137,#4F3989,Perlervault
+C53,Bright Green,142,195,36,#8EC324,Perlervault
+C54,Medium Turquoise,0,165,161,#00A5A1,Perlervault
+C56,Oslo Gray,130,135,139,#82878B,Perlervault
+C58,Black Rock,54,56,77,#36384D,Perlervault
+C60,Sea Mist,178,215,206,#B2D7CE,Perlervault
+C69,Mine Shaft,56,62,68,#383E44,Perlervault
+C70,Brunswick Green,21,56,56,#153838,Perlervault
+C71,Goldenrod,232,174,0,#E8AE00,Perlervault
+C72,Pastel Orange,217,179,94,#D9B35E,Perlervault
+C73,Sienna,187,104,51,#BB6833,Perlervault
+C74,Deer,191,145,104,#BF9168,Perlervault
+C75,Clay,170,116,78,#AA744E,Perlervault
+C76,Coral Red,236,98,94,#EC625E,Perlervault
+C77,Deep Chestnut,190,93,101,#BE5D65,Perlervault
+C78,Red Wine,153,50,58,#99323A,Perlervault
+C79,Light Sea Blue,104,196,210,#68C4D2,Perlervault
+C80,Sea Blue,0,147,169,#0093A9,Perlervault
+C81,Steel Blue,90,176,191,#5AB0BF,Perlervault
+C82,Azure,0,158,194,#009EC2,Perlervault
+C83,Dark Steel Blue,0,132,178,#0084B2,Perlervault
+C84,Drark Algae,173,173,41,#ADAD29,Perlervault
+C85,Dark Olive,143,142,60,#8F8E3C,Perlervault
+C86,Jade Green,0,125,43,#007D2B,Perlervault
+C87,Ghost While,212,216,211,#D4D8D3,Perlervault
+C88,Ash Grey,194,196,194,#C2C4C2,Perlervault
+C89,Light Gray,167,172,173,#A7ACAD,Perlervault
+C90,Charcoal Gray,86,90,94,#565A5E,Perlervault
+C91,Dandelion,206,164,51,#CEA433,Perlervault
+C92,Pale Skin,220,183,148,#DCB794,Perlervault
+C93,Warm Blush,221,146,133,#DD9285,Perlervault
+C94,Salmon,224,123,105,#E07B69,Perlervault
+C95,Apricot,239,127,97,#EF7F61,Perlervault
+C96,Papaya,220,119,43,#DC772B,Perlervault
+C97,Himalaya Blue,106,174,219,#6AAEDB,Perlervault
+C98,Waterfall,97,187,211,#61BBD3,Perlervault
+C99,Lagoon,39,155,190,#279BBE,Perlervault
+C100,Electric Blue,0,167,227,#00A7E3,Perlervault
+C101,Pool Blue,0,119,202,#0077CA,Perlervault
+C102,Caribbian Blue,0,90,169,#005AA9,Perlervault
+C103,Deep Water,0,127,158,#007F9E,Perlervault
+C104,Petrol Blue,0,125,145,#007D91,Perlervault
+C105,Wegdewood Blue,0,100,154,#00649A,Perlervault
+C106,Pond Blue,0,108,159,#006C9F,Perlervault
+C107,Seashell Beige,207,193,121,#CFC179,Perlervault
+C108,Beige,196,174,100,#C4AE64,Perlervault
+C109,Beach Beige,171,151,69,#AB9745,Perlervault
+C110,Caffe Latté,151,129,56,#978138,Perlervault
+C111,Oaktree Brown,144,124,65,#907C41,Perlervault
+C112,Khaki,182,174,132,#B6AE84,Perlervault
+C113,Light Greengray,165,159,101,#A59F65,Perlervault
+C114,Mossy Green,147,141,84,#938D54,Perlervault
+C115,Earth Green,141,139,81,#8D8B51,Perlervault
+C116,Sage Green,127,126,73,#7F7E49,Perlervault
+C117,Pinetree Green,91,110,53,#5B6E35,Perlervault
+C118,Frosty Blue,138,213,201,#8AD5C9,Perlervault
+C119,Polar Mint,124,210,165,#7CD2A5,Perlervault
+C120,Celadon Green,114,172,154,#72AC9A,Perlervault
+C121,Eucalyptus,0,178,111,#00B26F,Perlervault
+C122,Clover Field,62,183,36,#3EB724,Perlervault
+C123,Pooltable Felt,13,117,53,#0D7535,Perlervault
+C124,Snake Green,0,125,110,#007D6E,Perlervault
+C125,Dark Eucalyptus,0,110,105,#006E69,Perlervault
+C126,Marsmallow Rose,223,195,225,#DFC3E1,Perlervault
+C127,Light Grape,211,142,212,#D38ED4,Perlervault
+C128,Rosebud Pink,213,166,186,#D5A6BA,Perlervault
+C129,Fuschia,214,102,142,#D6668E,Perlervault
+C130,Candy Violet,184,170,217,#B8AAD9,Perlervault
+C131,Flamingo,223,72,109,#DF486D,Perlervault
+C132,Pink Plum,188,60,166,#BC3CA6,Perlervault
+C133,Amethyst,128,56,151,#803897,Perlervault
+C134,Moonlight Blue,167,186,225,#A7BAE1,Perlervault
+C135,Summer Rain,175,184,223,#AFB8DF,Perlervault
+C136,Azur Blue,107,154,212,#6B9AD4,Perlervault
+C137,Cornflower Blue,90,137,206,#5A89CE,Perlervault
+C138,Forget Me Not,101,138,208,#658AD0,Perlervault
+C139,Indigo,86,108,189,#566CBD,Perlervault
+C140,Horizon Blue,77,116,198,#4D74C6,Perlervault
+C141,Cobolt,65,109,190,#416DBE,Perlervault
+C142,Royal Blue,48,66,158,#30429E,Perlervault
+C143,Marine,2,66,136,#024288,Perlervault
+C144,Pale Yellow Moss,214,202,106,#D6CA6A,Perlervault
+C145,Bloodrose Red,157,26,56,#9D1A38,Perlervault
+C146,Spearmint,128,183,161,#80B7A1,Perlervault
+C147,Mocha,122,89,79,#7A594F,Perlervault
+C148,Creme,239,219,161,#EFDBA1,Perlervault
+C149,Iris Violet,136,132,208,#8884D0,Perlervault
+C150,Forrest Green,52,86,33,#345621,Perlervault
+C151,Lilac,174,173,220,#AEADDC,Perlervault
+C152,Pale Lilac,188,195,225,#BCC3E1,Perlervault
+C153,Sahara Sand,227,192,154,#E3C09A,Perlervault
+C154,Sunkissed Teint,197,139,96,#C58B60,Perlervault
+C155,Steel Grey,90,95,101,#5A5F65,Perlervault
+C156,Iron Grey,76,81,86,#4C5156,Perlervault
+C157,Pepper,58,62,66,#3A3E42,Perlervault
