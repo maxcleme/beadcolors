@@ -15,7 +15,10 @@ This project aims to centralize, maintain and expose an exhaustive list of all b
 | Hama     | 56     | 0% |
 | Perler     | 66     |  0% |
 | Nabbi    | 29     | 0% |
-| Artkal     | 183     | 0% |
+| Artkal A-2.6MM    | 144     | 0% |
+| Artkal C-2.6MM    | 144     | 0% |
+| Artkal R-5MM    | 88     | 0% |
+| Artkal S-5MM    | 183     | 0% |
 
 
 
@@ -45,7 +48,7 @@ Simply create a PR applying modification under `/raw` folder **only**.
 | Method |  Usage |
 | -------- | -------- |
 | Browsing website     | [Beadscolors](https://beadcolors.eremes.xyz/) |     
-| Static files     | <ul><li>[Artkal](https://beadcolors.eremes.xyz/raw/artkal.csv)</li><li>[Hama](https://beadcolors.eremes.xyz/raw/hama.csv)</li><li>[Nabbi](https://beadcolors.eremes.xyz/raw/nabbi.csv)</li><li>[Perler](https://beadcolors.eremes.xyz/raw/perler.csv)</li></ul>     |
+| Static files     | <ul><li>[Hama](https://beadcolors.eremes.xyz/raw/hama.csv)</li><li>[Nabbi](https://beadcolors.eremes.xyz/raw/nabbi.csv)</li><li>[Perler](https://beadcolors.eremes.xyz/raw/perler.csv)</li><li>[Artkal A-2.6MM](https://beadcolors.eremes.xyz/raw/artkal_a.csv)</li><li>[Artkal C-2.6MM](https://beadcolors.eremes.xyz/raw/artkal_c.csv)</li><li>[Artkal R-5MM](https://beadcolors.eremes.xyz/raw/artkal_r.csv)</li><li>[Artkal S-5MM](https://beadcolors.eremes.xyz/raw/artkal_s.csv)</li></ul>     |
 | API     | *Coming soon*     |
 
 

@@ -3,7 +3,7 @@
         <div class="homepage-content">
             {{ range (readDir "./static/gen/v1") }}
                 <article class="cf ph3 ph5-l pv3 pv4-l f4 lh-copy mid-gray">
-                    <h1 style="text-decoration: underline;">{{ substr (.Name | humanize) 0 -4 }}</h1>
+                    <h1 style="text-decoration: underline;">{{ substr (.Name | humanize | title) 0 -4 }}</h1>
                     <table class="w-100 center tc-l">
                         <thead>
                         <tr>
