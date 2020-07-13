@@ -10,15 +10,16 @@ This project aims to centralize, maintain and expose an exhaustive list of all b
 
 
 
-| Brands | Color Count | Official | 
-| -------- | -------- | -------- | 
-| Hama     | 56     | 0% |
-| Perler     | 66     |  0% |
-| Nabbi    | 29     | 0% |
-| Artkal A-2.6MM    | 144     | 0% |
-| Artkal C-2.6MM    | 144     | 0% |
-| Artkal R-5MM    | 88     | 0% |
-| Artkal S-5MM    | 183     | 0% |
+| Brands | Color Count | Official | Style |
+| -------- | -------- | -------- | -------- | 
+| Hama     | 56     | 0% | Melty Bead |
+| Perler     | 66     |  0% | Melty Bead | 
+| Nabbi    | 29     | 0% | Melty Bead |
+| Artkal A-2.6MM    | 144     | 0% | Melty Bead |
+| Artkal C-2.6MM    | 144     | 0% | Melty Bead |
+| Artkal R-5MM    | 88     | 0% | Melty Bead|
+| Artkal S-5MM    | 183     | 0% | Melty Bead |
+| Diamond Dotz    | 461     | 0% | Diamond Painting |
 
 
 
