@@ -10,15 +10,16 @@ This project aims to centralize, maintain and expose an exhaustive list of all b
 
 
 
-| Brands | Color Count | Official | 
-| -------- | -------- | -------- | 
-| Hama     | 56     | 0% |
-| Perler     | 66     |  0% |
-| Nabbi    | 29     | 0% |
-| Artkal A-2.6MM    | 144     | 0% |
-| Artkal C-2.6MM    | 144     | 0% |
-| Artkal R-5MM    | 88     | 0% |
-| Artkal S-5MM    | 183     | 0% |
+| Brands | Color Count |
+| -------- | -------- |  
+| Hama     | 56     |
+| Perler     | 66     |
+| Nabbi    | 29     |
+| Artkal A-2.6MM    | 144     |
+| Artkal C-2.6MM    | 144     |
+| Artkal R-5MM    | 88     |
+| Artkal S-5MM    | 183     |
+| Diamond Dotz    | 461     |
 
 
 
@@ -29,9 +30,9 @@ In order to prevent breaking change in the future, this repository is organized 
 
 | Folder | Description |
 | -------- | -------- |
-| `/raw`     | Very simple `.csv` for each brands, in the following format :<br/><br/> `[reference_code, name, rgb_a, rgb_g, rgb_b, contributor]` <br/><br/>**Note: Contribution should be made on this folder, orders folders will be generated with Github Actions.**|
-| `/v1`     | `[reference_code, name, rgb_a, rgb_g, rgb_b, rgb_hex, contributor]` |
-| `/v2`     | `[reference_code, name, rgb_a, rgb_g, rgb_b, hsl_h, hsl_s, hsl_l, lab_l, lab_a, lab_b, contributor]` |
+| `/raw`     | Very simple `.csv` for each brands, in the following format :<br/><br/> `[reference_code, name, rgb_r, rgb_g, rgb_b, contributor]` <br/><br/>**Note: Contribution should be made on this folder, orders folders will be generated with Github Actions.**|
+| `/v1`     | `[reference_code, name, rgb_r, rgb_g, rgb_b, rgb_hex, contributor]` |
+| `/v2`     | `[reference_code, name, rgb_r, rgb_g, rgb_b, hsl_h, hsl_s, hsl_l, lab_l, lab_a, lab_b, contributor]` |
 
 
 
