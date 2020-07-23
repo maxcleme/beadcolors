@@ -6,6 +6,11 @@ import (
 
 // V3 convert [r,g,b] tuple into [rgb_r,rgb_g,rgb_b,hsl_h,hsl_s,hsl_l,lab_l,lab_a,lab_b] tuple
 func V3(rgbR, rgbG, rgbB int) ([]string, error) {
+	symbol, err := symbols()
+	if err != nil {
+		return nil, err
+	}
+
 	hslH, hslS, hslL, err := hsl(rgbR, rgbG, rgbB)
 	if err != nil {
 		return nil, err
@@ -15,6 +20,7 @@ func V3(rgbR, rgbG, rgbB int) ([]string, error) {
 		return nil, err
 	}
 	return []string{
+		fmt.Sprintf("%s", symbol),
 		fmt.Sprintf("%d", rgbR),
 		fmt.Sprintf("%d", rgbG),
 		fmt.Sprintf("%d", rgbB),
@@ -25,4 +31,8 @@ func V3(rgbR, rgbG, rgbB int) ([]string, error) {
 		fmt.Sprintf("%.2f", labA),
 		fmt.Sprintf("%.2f", labB),
 	}, nil
+}
+
+func symbols() (string, error) {
+	return "hi", nil
 }
