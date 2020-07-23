@@ -10,15 +10,17 @@ This project aims to centralize, maintain and expose an exhaustive list of all b
 
 
 
-| Brands | Color Count | Official | 
+| Brands | Color Count | Style |
 | -------- | -------- | -------- | 
-| Hama     | 56     | 0% |
-| Perler     | 66     |  0% |
-| Nabbi    | 29     | 0% |
-| Artkal A-2.6MM    | 144     | 0% |
-| Artkal C-2.6MM    | 144     | 0% |
-| Artkal R-5MM    | 88     | 0% |
-| Artkal S-5MM    | 183     | 0% |
+| Hama     | 56     | Melty Bead |
+| Perler     | 66     | Melty Bead | 
+| Perler Mini     |  40   | Melty Bead | 
+| Nabbi    | 29     | Melty Bead |
+| Artkal A-2.6MM    | 144     | Melty Bead |
+| Artkal C-2.6MM    | 144     | Melty Bead |
+| Artkal R-5MM    | 88     | Melty Bead|
+| Artkal S-5MM    | 183     | Melty Bead |
+| Diamond Dotz    | 461     | Diamond Painting |
 
 
 
@@ -29,9 +31,9 @@ In order to prevent breaking change in the future, this repository is organized 
 
 | Folder | Description |
 | -------- | -------- |
-| `/raw`     | Very simple `.csv` for each brands, in the following format :<br/><br/> `[reference_code, name, rgb_a, rgb_g, rgb_b, contributor]` <br/><br/>**Note: Contribution should be made on this folder, orders folders will be generated with Github Actions.**|
-| `/v1`     | `[reference_code, name, rgb_a, rgb_g, rgb_b, rgb_hex, contributor]` |
-| `/v2`     | `[reference_code, name, rgb_a, rgb_g, rgb_b, hsl_h, hsl_s, hsl_l, lab_l, lab_a, lab_b, contributor]` |
+| `/raw`     | Very simple `.csv` for each brands, in the following format :<br/><br/> `[reference_code, name, rgb_r, rgb_g, rgb_b, contributor]` <br/><br/>**Note: Contribution should be made on this folder, orders folders will be generated with Github Actions.**|
+| `/v1`     | `[reference_code, name, rgb_r, rgb_g, rgb_b, rgb_hex, contributor]` |
+| `/v2`     | `[reference_code, name, rgb_r, rgb_g, rgb_b, hsl_h, hsl_s, hsl_l, lab_l, lab_a, lab_b, contributor]` |
 
 
 
@@ -48,10 +50,7 @@ Simply create a PR applying modification under `/raw` folder **only**.
 | Method |  Usage |
 | -------- | -------- |
 | Browsing website     | [Beadscolors](https://beadcolors.eremes.xyz/) |     
-| Static files     | <ul><li>[Hama](https://beadcolors.eremes.xyz/raw/hama.csv)</li><li>[Nabbi](https://beadcolors.eremes.xyz/raw/nabbi.csv)</li><li>[Perler](https://beadcolors.eremes.xyz/raw/perler.csv)</li><li>[Artkal A-2.6MM](https://beadcolors.eremes.xyz/raw/artkal_a.csv)</li><li>[Artkal C-2.6MM](https://beadcolors.eremes.xyz/raw/artkal_c.csv)</li><li>[Artkal R-5MM](https://beadcolors.eremes.xyz/raw/artkal_r.csv)</li><li>[Artkal S-5MM](https://beadcolors.eremes.xyz/raw/artkal_s.csv)</li></ul>     |
-| API     | *Coming soon*     |
-
-
+| Static files     | <ul><li>[Hama](https://beadcolors.eremes.xyz/raw/hama.csv)</li><li>[Nabbi](https://beadcolors.eremes.xyz/raw/nabbi.csv)</li><li>[Perler](https://beadcolors.eremes.xyz/raw/perler.csv)</li><li>[Perler Mini](https://beadcolors.eremes.xyz/raw/perler_mini.csv)</li><li>[Artkal A-2.6MM](https://beadcolors.eremes.xyz/raw/artkal_a.csv)</li><li>[Artkal C-2.6MM](https://beadcolors.eremes.xyz/raw/artkal_c.csv)</li><li>[Artkal R-5MM](https://beadcolors.eremes.xyz/raw/artkal_r.csv)</li><li>[Artkal S-5MM](https://beadcolors.eremes.xyz/raw/artkal_s.csv)</li><li>[Diamond Dotz](https://beadcolors.eremes.xyz/raw/diamondDotz.csv)</li></ul>     |
 
 ## Automation
 
@@ -60,8 +59,5 @@ Goal of automation are multiple :
 1. Maintain only `raw` folder, contains minimal data, only `[ref, name, r, g, b, contributor]`
 2. Enhance the `raw` folder by adding new fields to each color reference (eg: `hex`, `hsl`, `lab`)
 3. Generate bunch of format (eg: `csv`, `json`, `yaml`) 
-
-
-Currently, only the `v1` folder is generated based on the `raw` folder. 
 
 `v1` folder is more a proof of concept of what it could be done in a later time.

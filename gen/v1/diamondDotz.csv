@@ -1,0 +1,461 @@
+5001,White Ab,196,187,178,#C4BBB2,LThanda
+5002,Light Blue Ab,146,171,168,#92ABA8,LThanda
+5003,Aegean Blue Ab,15,119,166,#0F77A6,LThanda
+5004,Pink Ab,222,151,136,#DE9788,LThanda
+5005,Yellow Ab,208,162,23,#D0A217,LThanda
+5006,Red Ab,201,67,62,#C9433E,LThanda
+5007,Cream Ab,200,183,145,#C8B791,LThanda
+5008,Bright Green Ab,133,145,41,#859129,LThanda
+5009,Baby Blue Ab,109,149,152,#6D9598,LThanda
+5010,Mauve Ab,175,137,165,#AF89A5,LThanda
+5011,Crystal Ab,90,92,91,#5A5C5B,LThanda
+5012,Orange Ab,209,55,37,#D13725,LThanda
+8165,Aqua Mist,149,179,180,#95B3B4,LThanda
+8174,Mid Aqua Marine,90,149,161,#5A95A1,LThanda
+8175,Aqua Marine,49,139,158,#318B9E,LThanda
+8176,Dark Aqua Marine,13,79,110,#0D4F6E,LThanda
+8177,Pale Turquoise,137,176,161,#89B0A1,LThanda
+8178,Mid Turquoise,113,158,156,#719E9C,LThanda
+8179,Turquoise,70,131,143,#46838F,LThanda
+8180,Dark Turquoise,65,124,132,#417C84,LThanda
+8181,Oriental Turquoise,24,101,114,#186572,LThanda
+8183,Turquoise Ice,153,159,148,#999F94,LThanda
+8184,Pale Slate,112,128,125,#70807D,LThanda
+8185,Mid Slate,91,108,110,#5B6C6E,LThanda
+8186,Slate,59,75,81,#3B4B51,LThanda
+8187,Dark Slate,37,61,67,#253D43,LThanda
+8188,Light Jade,80,144,141,#50908D,LThanda
+8189,Jade,46,122,119,#2E7A77,LThanda
+8190,Dark Jade,11,67,67,#0B4343,LThanda
+8209,Dark Beryl,52,85,74,#34554A,LThanda
+8212,Light Agave,117,153,142,#75998E,LThanda
+8213,Agave,82,133,125,#52857D,LThanda
+8214,Dark Agave,68,88,84,#445854,LThanda
+8215,Pine Green,53,79,75,#354F4B,LThanda
+8216,Dark Pine Green,23,54,50,#173632,LThanda
+8001,Black,31,31,36,#1F1F24,LThanda
+8405,Burnt Umber,55,40,41,#372829,LThanda
+8415,Stone,147,128,114,#938072,LThanda
+8416,Dark Stone,112,102,87,#706657,LThanda
+8417,Smoke,73,71,64,#494740,LThanda
+8418,Black Pearl,52,44,40,#342C28,LThanda
+8420,Dark Ash,154,144,120,#9A9078,LThanda
+8422,Deep Ocean,77,76,81,#4D4C51,LThanda
+8426,Medium Clay,122,92,78,#7A5C4E,LThanda
+8427,Dark Clay,106,74,60,#6A4A3C,LThanda
+8436,Smokey Grey,122,129,120,#7A8178,LThanda
+8437,Dark Cement,113,102,95,#71665F,LThanda
+8438,Thunder Grey,90,91,86,#5A5B56,LThanda
+8439,Storm Grey,67,60,56,#433C38,LThanda
+8442,Medium Dove,122,123,132,#7A7B84,LThanda
+8443,Dark Dove,88,88,98,#585862,LThanda
+8444,Mist,149,151,151,#959797,LThanda
+8445,Pebble,123,132,135,#7B8487,LThanda
+8446,Shadow,77,75,85,#4D4B55,LThanda
+8447,Blue Gum,56,74,82,#384A52,LThanda
+8448,Steel,64,62,68,#403E44,LThanda
+8108,Blue Grey,135,151,167,#8797A7,LThanda
+8109,Mid Blue Grey,101,124,150,#657C96,LThanda
+8110,Blue Shadow,64,102,141,#40668D,LThanda
+8115,Duck Egg Blue,115,151,168,#7397A8,LThanda
+8116,Sky Blue,100,137,169,#6489A9,LThanda
+8117,Mid Sky Blue,80,119,159,#50779F,LThanda
+8118,Dark Sky Blue,66,95,136,#425F88,LThanda
+8119,Light Delft,42,76,129,#2A4C81,LThanda
+8120,Delft,48,74,127,#304A7F,LThanda
+8121,Junior Navy,36,47,94,#242F5E,LThanda
+8122,Azure,105,148,168,#6994A8,LThanda
+8123,Cornflower,46,95,153,#2E5F99,LThanda
+8124,Dark Cornflower,39,86,152,#275698,LThanda
+8125,Forget-Me-Not Blue,85,151,185,#5597B9,LThanda
+8126,Delphinium Blue,52,125,181,#347DB5,LThanda
+8127,Santorini Blue,17,94,160,#115EA0,LThanda
+8128,Reflex Blue,14,83,150,#0E5396,LThanda
+8129,Dark Reflex Blue,14,80,157,#0E509D,LThanda
+8130,Ocean Blue,18,63,133,#123F85,LThanda
+8131,Navy Blue,19,59,123,#133B7B,LThanda
+8132,Light Glacier,130,179,174,#82B3AE,LThanda
+8133,Glacier Blue,89,161,173,#59A1AD,LThanda
+8134,Dark Glacier,58,165,193,#3AA5C1,LThanda
+8135,Pale Denim,56,111,149,#386F95,LThanda
+8136,Denim,18,89,133,#125985,LThanda
+8137,Dark Denim,20,65,107,#14416B,LThanda
+8138,Light Aegean,29,150,188,#1D96BC,LThanda
+8139,Aegean Blue,14,135,187,#0E87BB,LThanda
+8140,Deep Aegean Blue,9,103,164,#0967A4,LThanda
+8141,Light Aqua,38,156,179,#269CB3,LThanda
+8142,Aqua,19,154,185,#139AB9,LThanda
+8143,Dark Aqua,8,126,164,#087EA4,LThanda
+8144,Pale Blue Grey,115,134,159,#73869F,LThanda
+8145,French Blue,88,109,135,#586D87,LThanda
+8146,Dark Blue Grey,51,75,109,#334B6D,LThanda
+8148,Ice Blue,155,181,181,#9BB5B5,LThanda
+8149,Mid Sea Quest,141,184,186,#8DB8BA,LThanda
+8150,Sea Quest,117,166,178,#75A6B2,LThanda
+8151,Dark Sea Quest,96,142,164,#608EA4,LThanda
+8152,Oriental Light Blue,52,114,149,#347295,LThanda
+8153,Oriental Blue,48,97,137,#306189,LThanda
+8154,Mid Oriental Blue,26,74,116,#1A4A74,LThanda
+8155,Dark Oriental Blue,28,65,99,#1C4163,LThanda
+8156,Ink,21,47,83,#152F53,LThanda
+8157,Midnight Blue,23,37,61,#17253D,LThanda
+8158,Indigo,32,31,49,#201F31,LThanda
+8159,Baby Blue,152,174,174,#98AEAE,LThanda
+8160,Light Teal,122,149,154,#7A959A,LThanda
+8161,Mid Teal,94,127,139,#5E7F8B,LThanda
+8162,Teal,72,107,121,#486B79,LThanda
+8163,Dark Teal,36,70,89,#244659,LThanda
+8164,Midnight Teal,24,51,73,#183349,LThanda
+8166,Bluestone,120,169,177,#78A9B1,LThanda
+8167,Heavenly Blue,103,147,165,#6793A5,LThanda
+8168,Light Kingfisher,49,136,165,#3188A5,LThanda
+8169,Kingfisher,26,112,149,#1A7095,LThanda
+8170,Dark Kingfisher,28,81,120,#1C5178,LThanda
+8171,Sapphire,16,77,128,#104D80,LThanda
+8172,Dark Sapphire,20,56,98,#143862,LThanda
+8173,Light Aqua Marine,136,178,175,#88B2AF,LThanda
+8282,Light Eucalypt,137,132,92,#89845C,LThanda
+8283,Gum Green,126,118,76,#7E764C,LThanda
+8284,Green Gold,135,115,75,#87734B,LThanda
+8285,Pale Gold,194,173,112,#C2AD70,LThanda
+8286,Gold,181,144,64,#B59040,LThanda
+8287,Deep Gold,155,113,48,#9B7130,LThanda
+8288,Light Bronze,143,118,53,#8F7635,LThanda
+8289,Dark Khaki,105,83,44,#69532C,LThanda
+8290,Bronze,109,72,37,#6D4825,LThanda
+8292,String,142,127,107,#8E7F6B,LThanda
+8293,Gun Metal,94,83,68,#5E5344,LThanda
+8294,Putty,110,97,76,#6E614C,LThanda
+8296,Linen,162,140,98,#A28C62,LThanda
+8297,Fawn,132,100,75,#84644B,LThanda
+8298,Dark Linen,132,91,63,#845B3F,LThanda
+8303,Mocha,112,80,56,#705038,LThanda
+8304,Olivine,131,91,63,#835B3F,LThanda
+8307,Deep Cadmium,168,102,43,#A8662B,LThanda
+8308,Russet,131,66,44,#83422C,LThanda
+8309,Oaten,221,158,112,#DD9E70,LThanda
+8310,Pale Ginger,159,111,72,#9F6F48,LThanda
+8311,Dark Ginger,148,102,58,#94663A,LThanda
+8312,Golden Ginger,163,113,64,#A37140,LThanda
+8355,Light Ochre,213,135,98,#D58762,LThanda
+8356,Mid Ochre,196,98,63,#C4623F,LThanda
+8357,Dark Ochre,167,73,44,#A7492C,LThanda
+8358,Ochre,158,66,42,#9E422A,LThanda
+8359,Dark Brown,94,44,31,#5E2C1F,LThanda
+8364,Medium Skin Tone,204,133,96,#CC8560,LThanda
+8365,Light Tan,207,132,79,#CF844F,LThanda
+8366,Mid Tan,190,104,55,#BE6837,LThanda
+8367,Tan,182,94,51,#B65E33,LThanda
+8368,Dark Tan,121,54,36,#793624,LThanda
+8380,Red Mud,94,36,38,#5E2426,LThanda
+8381,Dark Burgundy,88,34,37,#582225,LThanda
+8384,Mole Pink,187,116,98,#BB7462,LThanda
+8385,Light Mole,177,119,113,#B17771,LThanda
+8386,Mole,149,92,86,#955C56,LThanda
+8387,Dark Mole,121,64,56,#794038,LThanda
+8397,Medium Latte,201,151,122,#C9977A,LThanda
+8398,Latte,173,113,84,#AD7154,LThanda
+8399,Dark Latte,165,99,68,#A56344,LThanda
+8400,Bark,138,73,57,#8A4939,LThanda
+8401,Brown,112,54,38,#703626,LThanda
+8402,Chocolate Brown,86,45,38,#562D26,LThanda
+8403,Dirty Paw,90,51,42,#5A332A,LThanda
+8404,Purple Brown,72,38,33,#482621,LThanda
+8407,Pale Donkey,183,143,122,#B78F7A,LThanda
+8408,Medium Donkey,159,113,93,#9F715D,LThanda
+8409,Donkey,124,85,68,#7C5544,LThanda
+8410,Charcoal,74,51,45,#4A332D,LThanda
+8425,Grey Green Haze,147,127,102,#937F66,LThanda
+8430,Mid Twig,150,112,99,#967063,LThanda
+8431,Dark Twig,139,102,87,#8B6657,LThanda
+8432,Sepia,102,72,58,#66483A,LThanda
+8433,Dark Sepia,64,43,41,#402B29,LThanda
+8147,Ice,187,191,159,#BBBF9F,LThanda
+8182,Midnight Turquoise,23,81,94,#17515E,LThanda
+8191,Light Reef,104,170,160,#68AAA0,LThanda
+8192,Medium Reef,75,150,140,#4B968C,LThanda
+8193,Reef,58,142,129,#3A8E81,LThanda
+8194,Dark Reef,8,109,98,#086D62,LThanda
+8195,Waterfall,46,136,121,#2E8879,LThanda
+8196,Deep Waterfall,26,134,119,#1A8677,LThanda
+8198,Spa,86,144,137,#569089,LThanda
+8199,Deep Spa,50,133,124,#32857C,LThanda
+8200,Blue Green,35,118,111,#23766F,LThanda
+8201,Dark Blue Green,10,84,79,#0A544F,LThanda
+8202,Soft Green,113,146,121,#719279,LThanda
+8203,Light Apple Green,110,152,124,#6E987C,LThanda
+8204,Apple Green,96,141,121,#608D79,LThanda
+8205,Dark Apple Green,72,119,93,#48775D,LThanda
+8206,Wattle Green,34,77,62,#224D3E,LThanda
+8210,Light Juniper,56,102,89,#386659,LThanda
+8211,Juniper,37,75,67,#254B43,LThanda
+8217,Pale Mint Green,155,199,158,#9BC79E,LThanda
+8218,Medium Mint Green,114,179,136,#72B388,LThanda
+8219,Mint Green,78,159,107,#4E9F6B,LThanda
+8220,Bright Mint Green,53,154,99,#359A63,LThanda
+8221,Light Emerald,56,154,92,#389A5C,LThanda
+8222,Emerald Green,21,115,59,#15733B,LThanda
+8223,Dark Emerald,13,106,70,#0D6A46,LThanda
+8224,Holly Green,22,83,55,#165337,LThanda
+8225,Chartreuse,176,174,132,#B0AE84,LThanda
+8226,Antique Green,136,149,114,#889572,LThanda
+8227,Light Jungle,86,118,84,#567654,LThanda
+8228,Jungle,77,108,75,#4D6C4B,LThanda
+8229,Deep Jungle,44,73,49,#2C4931,LThanda
+8230,Veridian,35,70,44,#23462C,LThanda
+8231,Pastel Green,142,172,116,#8EAC74,LThanda
+8232,Pale Fern,129,157,81,#819D51,LThanda
+8233,Fern,88,125,67,#587D43,LThanda
+8234,Medium Fern,76,115,66,#4C7342,LThanda
+8235,Dark Fern,48,84,43,#30542B,LThanda
+8236,Pale Chartreuse,174,178,119,#AEB277,LThanda
+8238,Palm Green,109,119,75,#6D774B,LThanda
+8241,Cedar Green,50,93,58,#325D3A,LThanda
+8242,Parrot,157,170,43,#9DAA2B,LThanda
+8243,Dark Parrot,125,160,52,#7DA034,LThanda
+8244,Lorikeet,82,140,51,#528C33,LThanda
+8245,Kelly Green,14,94,35,#0E5E23,LThanda
+8246,Mid Kelly Green,13,90,39,#0D5A27,LThanda
+8247,Dark Kelly Green,15,83,44,#0F532C,LThanda
+8248,Light Frog Green,151,160,30,#97A01E,LThanda
+8249,Frog Green,70,123,17,#467B11,LThanda
+8250,Leprachaun,61,99,31,#3D631F,LThanda
+8251,Loden Green,57,88,33,#395821,LThanda
+8253,Lichen,146,143,79,#928F4F,LThanda
+8254,Pickle Green,106,127,48,#6A7F30,LThanda
+8256,Mineral Green,99,99,37,#636325,LThanda
+8257,Medium Forest,79,84,56,#4F5438,LThanda
+8258,Forest,68,69,50,#444532,LThanda
+8259,Dark Forest,57,53,40,#393528,LThanda
+8271,Bright Lime,192,179,41,#C0B329,LThanda
+8421,Greenstone,112,127,101,#707F65,LThanda
+8207,Turquoise Breath,98,123,117,#627B75,LThanda
+8208,Beryl,65,122,112,#417A70,LThanda
+8237,Deep Chartreuse,165,151,85,#A59755,LThanda
+8252,Celery Green,183,160,95,#B7A05F,LThanda
+8260,Grey Green,143,144,125,#8F907D,LThanda
+8261,Pale Olive,145,146,102,#919266,LThanda
+8262,Grass Green,109,115,78,#6D734E,LThanda
+8263,Olive,78,82,47,#4E522F,LThanda
+8264,Sage,92,95,71,#5C5F47,LThanda
+8265,Green Haze,119,131,118,#778376,LThanda
+8266,Hunter Green,49,71,55,#314737,LThanda
+8267,Dark Pickle,130,127,85,#827F55,LThanda
+8268,Sap Green,83,95,63,#535F3F,LThanda
+8269,Dark Olive,68,79,51,#444F33,LThanda
+8270,Pale Yellow,208,172,87,#D0AC57,LThanda
+8272,Bright Khaki,158,133,29,#9E851D,LThanda
+8273,May Green,103,115,35,#677323,LThanda
+8274,Mid May Green,97,100,41,#616429,LThanda
+8275,Light Khaki,153,133,66,#998542,LThanda
+8276,Khaki,139,119,43,#8B772B,LThanda
+8277,Dark May Green,85,85,38,#555526,LThanda
+8278,Army Green,75,80,36,#4B5024,LThanda
+8279,Winter Green,139,140,108,#8B8C6C,LThanda
+8280,Eucalypt,114,118,85,#727655,LThanda
+8281,Dark Eucalypt,95,99,62,#5F633E,LThanda
+8089,Purple Smoke,158,137,139,#9E898B,LThanda
+8090,Pale Mushroom,141,119,127,#8D777F,LThanda
+8091,Mushroom,111,81,95,#6F515F,LThanda
+8092,Dark Mushroom,97,61,75,#613D4B,LThanda
+8093,Light Mauve,152,97,116,#986174,LThanda
+8094,Mauve,111,62,88,#6F3E58,LThanda
+8095,Dark Mauve,98,50,73,#623249,LThanda
+8096,Maroon,65,27,46,#411B2E,LThanda
+8097,Pale Lilac,193,150,179,#C196B3,LThanda
+8098,Lilac,181,129,187,#B581BB,LThanda
+8099,Mid Lilac,157,96,149,#9D6095,LThanda
+8100,Light Purple,116,56,118,#743876,LThanda
+8101,Purple,97,41,105,#612969,LThanda
+8102,Dark Purple,84,38,99,#542663,LThanda
+8103,Purple Ice,179,154,182,#B39AB6,LThanda
+8104,Lavenda,151,122,173,#977AAD,LThanda
+8105,Jacaranda,78,62,145,#4E3E91,LThanda
+8106,Imperial Purple,64,49,132,#403184,LThanda
+8107,Royal Purple,60,25,72,#3C1948,LThanda
+8111,Dark Lavenda,87,98,153,#576299,LThanda
+8112,Soft Violet,117,87,163,#7557A3,LThanda
+8113,Gentian,72,57,137,#483989,LThanda
+8114,Gentian Violet,88,62,141,#583E8D,LThanda
+8388,Light Oyster,154,140,143,#9A8C8F,LThanda
+8389,Mid Oyster,148,128,135,#948087,LThanda
+8390,Oyster,125,107,115,#7D6B73,LThanda
+8391,Light Java,148,117,122,#94757A,LThanda
+8392,Java,105,73,79,#69494F,LThanda
+8393,Dark Java,98,65,69,#624145,LThanda
+7001,Red Gold Metallic,128,105,69,#806945,LThanda
+7002,Prism Metallic,32,45,57,#202D39,LThanda
+7003,Rich Gold Metallic,110,96,72,#6E6048,LThanda
+7004,Pewter Metallic,42,43,48,#2A2B30,LThanda
+7005,Silver Metallic,104,103,99,#686763,LThanda
+7006,Dark Gold Metallic,142,118,89,#8E7659,LThanda
+7007,Classic Gold Metallic,108,96,70,#6C6046,LThanda
+7008,Light Gold Metallic,110,103,76,#6E674C,LThanda
+7009,Platinum Metallic,102,99,84,#666354,LThanda
+3001,Neon Green,116,189,75,#74BD4B,LThanda
+3002,Neon Yellow,232,207,24,#E8CF18,LThanda
+3003,Neon Pink,245,57,97,#F53961,LThanda
+3004,Neon Orange,245,105,62,#F5693E,LThanda
+4001,Glow In The Dark,196,197,197,#C4C5C5,LThanda
+8330,Light Orange,240,125,25,#F07D19,LThanda
+8331,Mid Orange,242,111,38,#F26F26,LThanda
+8332,Bright Orange,239,91,39,#EF5B27,LThanda
+8333,Dark Orange,241,80,40,#F15028,LThanda
+8334,Flame,215,58,42,#D73A2A,LThanda
+8339,Deep Coral,237,92,61,#ED5C3D,LThanda
+8340,Tangerine,228,53,37,#E43525,LThanda
+8343,Pink Pearl,233,150,118,#E99676,LThanda
+8344,Light Terra Cotta,239,120,76,#EF784C,LThanda
+8345,Terra Cotta,204,79,49,#CC4F31,LThanda
+8346,Dark Terra Cotta,205,75,43,#CD4B2B,LThanda
+8347,Pink Marble,220,130,97,#DC8261,LThanda
+8354,Mid Nacre,225,175,152,#E1AF98,LThanda
+8362,Skin Tone,220,137,87,#DC8957,LThanda
+8363,Dark Skin Tone,212,106,63,#D46A3F,LThanda
+8004,Pale Rose,211,139,138,#D38B8A,LThanda
+8005,Mid Rose,222,127,130,#DE7F82,LThanda
+8006,Rose,208,82,87,#D05257,LThanda
+8011,Blush,224,102,89,#E06659,LThanda
+8016,Musk,234,115,125,#EA737D,LThanda
+8017,Dark Musk,223,70,82,#DF4652,LThanda
+8027,Pink,242,136,144,#F28890,LThanda
+8028,Light Hot Pink,235,91,103,#EB5B67,LThanda
+8029,Hot Pink,219,48,62,#DB303E,LThanda
+8031,Pale Pink,238,183,160,#EEB7A0,LThanda
+8032,Light Carnation,242,138,139,#F28A8B,LThanda
+8033,Carnation,233,73,109,#E9496D,LThanda
+8035,Pastel Pink,240,175,159,#F0AF9F,LThanda
+8036,Mid Pink,234,134,145,#EA8691,LThanda
+8037,Floral,216,98,113,#D86271,LThanda
+8038,Dark Floral,184,49,81,#B83151,LThanda
+8041,Cerise,156,32,49,#9C2031,LThanda
+8043,Ice Pink,240,195,161,#F0C3A1,LThanda
+8044,Frilly Pink,230,112,120,#E67078,LThanda
+8048,Light Frilly Pink,234,148,152,#EA9498,LThanda
+8049,Lilac Pink,217,122,132,#D97A84,LThanda
+8050,Light Fuschia,198,91,103,#C65B67,LThanda
+8051,Fuschia,176,52,74,#B0344A,LThanda
+8052,Dark Fuschia,150,31,60,#961F3C,LThanda
+8053,Deep Blush,154,11,43,#9A0B2B,LThanda
+8054,Baby Pink,235,158,169,#EB9EA9,LThanda
+8055,Light Magenta,169,74,98,#A94A62,LThanda
+8056,Mid Magenta,164,52,86,#A43456,LThanda
+8057,Magenta,116,22,47,#74162F,LThanda
+8058,Dark Magenta,94,17,36,#5E1124,LThanda
+8059,Lolly Pink,221,119,135,#DD7787,LThanda
+8060,Light Jazz Pink,233,105,131,#E96983,LThanda
+8061,Jazz Pink,219,73,107,#DB496B,LThanda
+8062,Mid Jazz Pink,212,50,94,#D4325E,LThanda
+8063,Dark Jazz Pink,195,34,68,#C32244,LThanda
+8064,Cyclamen,170,16,55,#AA1037,LThanda
+8065,Light Cyclamen,215,77,115,#D74D73,LThanda
+8066,Mid Cyclamen,212,39,88,#D42758,LThanda
+8067,Dark Cyclamen,192,14,62,#C00E3E,LThanda
+8068,Pink Mist,224,168,173,#E0A8AD,LThanda
+8069,Crepe Myrtle,214,133,169,#D685A9,LThanda
+8070,Light Puce,218,132,164,#DA84A4,LThanda
+8071,Puce,203,66,126,#CB427E,LThanda
+8072,Dark Puce,170,17,80,#AA1150,LThanda
+8073,Bright Cerise,169,20,84,#A91454,LThanda
+8074,Port Wine,122,8,41,#7A0829,LThanda
+8075,Pale Soft Pink,224,153,145,#E09991,LThanda
+8076,Soft Pink,216,126,125,#D87E7D,LThanda
+8077,Rose Bud,195,96,99,#C36063,LThanda
+8082,Pink Haze,176,121,124,#B0797C,LThanda
+8083,Blossom,233,162,153,#E9A299,LThanda
+8084,Sweet Pea,161,96,124,#A1607C,LThanda
+8085,Rose Quartz,127,56,68,#7F3844,LThanda
+8086,Mid Garnet,100,36,48,#642430,LThanda
+8087,Garnet,89,27,41,#591B29,LThanda
+8336,Feather Pink,236,151,129,#EC9781,LThanda
+8337,Light Coral,238,132,106,#EE846A,LThanda
+8338,Coral,237,115,89,#ED7359,LThanda
+8342,Pearl,212,168,147,#D4A893,LThanda
+8353,Light Nacre,223,177,162,#DFB1A2,LThanda
+8369,Light Ballet Pink,227,169,147,#E3A993,LThanda
+8370,Ballet Slipper Pink,233,152,128,#E99880,LThanda
+8371,Pale Salmon,216,144,122,#D8907A,LThanda
+8372,Salmon,207,120,94,#CF785E,LThanda
+8378,Ice Burgundy,203,150,143,#CB968F,LThanda
+8007,Dark Rose,186,62,68,#BA3E44,LThanda
+8008,Geranium,166,43,50,#A62B32,LThanda
+8010,Light Blush,229,143,123,#E58F7B,LThanda
+8012,Pale Scarlet,228,69,66,#E44542,LThanda
+8013,Scarlet,201,43,47,#C92B2F,LThanda
+8014,Bright Red,172,15,30,#AC0F1E,LThanda
+8015,Red,148,9,21,#940915,LThanda
+8018,Lipstick,211,44,60,#D32C3C,LThanda
+8019,Flamingo,216,37,48,#D82530,LThanda
+8020,Flag Red,186,10,25,#BA0A19,LThanda
+8021,Crimson,143,16,30,#8F101E,LThanda
+8022,Dark Crimson,113,11,29,#710B1D,LThanda
+8023,Burgundy,92,9,23,#5C0917,LThanda
+8024,Claret,115,17,34,#731122,LThanda
+8025,Ruby,105,8,27,#69081B,LThanda
+8026,Shiraz,70,10,21,#460A15,LThanda
+8030,Bright Pink,211,38,56,#D32638,LThanda
+8042,Wine,91,13,29,#5B0D1D,LThanda
+8078,Light Dusky Pink,153,66,73,#994249,LThanda
+8079,Dusky Pink,135,52,56,#873438,LThanda
+8080,Dark Dusky Pink,110,39,45,#6E272D,LThanda
+8081,Sangria,84,24,28,#54181C,LThanda
+8088,Dark Garnet,85,22,35,#551623,LThanda
+8335,Poppy,196,44,38,#C42C26,LThanda
+8341,Sunset,215,34,39,#D72227,LThanda
+8348,Light Brick Red,209,100,64,#D16440,LThanda
+8349,Brick Red,174,68,44,#AE442C,LThanda
+8350,Dark Brick Red,167,59,44,#A73B2C,LThanda
+8351,Rust,144,42,34,#902A22,LThanda
+8352,Dark Rust,119,35,30,#77231E,LThanda
+8373,Mid Salmon,218,117,96,#DA7560,LThanda
+8374,Dark Salmon,184,80,68,#B85044,LThanda
+8375,Siena,177,67,56,#B14338,LThanda
+8376,Dark Siena,162,53,52,#A23534,LThanda
+8377,Light Burgundy,133,39,46,#85272E,LThanda
+8002,White,222,218,208,#DEDAD0,LThanda
+8003,Ecru,235,200,174,#EBC8AE,LThanda
+8291,Ivory,174,167,156,#AEA79C,LThanda
+8295,Steam Cloud,180,170,145,#B4AA91,LThanda
+8299,Bone,196,171,143,#C4AB8F,LThanda
+8301,Sand,168,127,103,#A87F67,LThanda
+8382,Porcelain Pink,211,157,144,#D39D90,LThanda
+8383,Light Mole Pink,214,156,142,#D69C8E,LThanda
+8394,Magnolia,223,191,171,#DFBFAB,LThanda
+8395,Pampas,211,179,160,#D3B3A0,LThanda
+8396,Light Latte,191,157,144,#BF9D90,LThanda
+8406,Baby Blossom,211,173,156,#D3AD9C,LThanda
+8411,Frost,200,198,198,#C8C6C6,LThanda
+8412,Alabaster,207,192,151,#CFC097,LThanda
+8413,Light Stone,184,167,148,#B8A794,LThanda
+8414,Mid Stone,153,141,128,#998D80,LThanda
+8419,Ash,150,145,134,#969186,LThanda
+8423,Frosty Pink,204,175,158,#CCAF9E,LThanda
+8424,Light Clay,174,141,121,#AE8D79,LThanda
+8428,Snow Drift,200,175,161,#C8AFA1,LThanda
+8429,Twig,163,128,116,#A38074,LThanda
+8434,Arctic Grey,160,160,150,#A0A096,LThanda
+8435,Cement,131,121,118,#837976,LThanda
+8440,Pale Dove,164,163,159,#A4A39F,LThanda
+8441,Dove,133,133,139,#85858B,LThanda
+8300,Cream,205,170,115,#CDAA73,LThanda
+8305,Straw,225,140,55,#E18C37,LThanda
+8306,Cadmium,191,116,46,#BF742E,LThanda
+8313,Sahara,213,158,87,#D59E57,LThanda
+8314,Canary,201,146,64,#C99240,LThanda
+8315,Harvest Gold,202,143,58,#CA8F3A,LThanda
+8316,Sunflower,176,108,34,#B06C22,LThanda
+8317,Citrus,204,183,66,#CCB742,LThanda
+8318,Dark Citrus,226,188,12,#E2BC0C,LThanda
+8319,Wattle,235,191,14,#EBBF0E,LThanda
+8320,Dark Wattle,227,173,7,#E3AD07,LThanda
+8321,Primrose Yellow,224,187,113,#E0BB71,LThanda
+8322,Dark Primrose,234,192,90,#EAC05A,LThanda
+8323,Lemon Cadmium,227,180,21,#E3B415,LThanda
+8324,Sunshine,235,165,20,#EBA514,LThanda
+8325,Marigold,247,162,36,#F7A224,LThanda
+8326,Baby Yellow,236,186,111,#ECBA6F,LThanda
+8327,Lemon Yellow,237,184,97,#EDB861,LThanda
+8328,Daffodil,231,167,35,#E7A723,LThanda
+8329,Chrome,239,144,40,#EF9028,LThanda
+8360,Parchment,228,194,139,#E4C28B,LThanda
+8361,Light Skin Tone,238,176,119,#EEB077,LThanda
