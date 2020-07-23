@@ -14,6 +14,7 @@ type GenFunc func(r, g, b int) ([]string, error)
 var all = map[string]GenFunc{
 	"/v1": V1,
 	"/v2": V2,
+	"/v3": V3,
 }
 
 func main() {
