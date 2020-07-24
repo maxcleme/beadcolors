@@ -8,8 +8,8 @@ import (
 	"strconv"
 )
 
-// GenFunc represent a translation between raw tuple (r,g,b) into something else
-type GenFunc func(r, g, b int) ([]string, error)
+// GenFunc represent a translation between raw tuple (r,g,b, i) into something else
+type GenFunc func(r, g, b, i int) ([]string, error)
 
 var all = map[string]GenFunc{
 	"/v1": V1,
@@ -46,7 +46,7 @@ func main() {
 			}
 
 			w := csv.NewWriter(dest)
-			for _, l := range lines {
+			for i, l := range lines {
 				// Raw .csv contains only 6 columns [ref, name, r, g, b, contributor]
 				if len(l) != 6 {
 					return fmt.Errorf("main: invalid raw format : %s", info.Name())
@@ -59,7 +59,7 @@ func main() {
 					return err
 				}
 
-				ss, err := gen(r, g, b)
+				ss, err := gen(r, g, b, i)
 				if err != nil {
 					return err
 				}

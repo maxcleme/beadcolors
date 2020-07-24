@@ -10,6 +10,7 @@ func TestV1(t *testing.T) {
 		r int
 		g int
 		b int
+		i int
 	}
 	tests := []struct {
 		name    string
@@ -18,11 +19,12 @@ func TestV1(t *testing.T) {
 		wantErr bool
 	}{
 		{
-			name:    "",
-			args:    args{
+			name: "",
+			args: args{
 				r: 42,
 				g: 42,
 				b: 42,
+				i: 0,
 			},
 			want:    []string{"42", "42", "42", "#2A2A2A"},
 			wantErr: false,
@@ -30,7 +32,7 @@ func TestV1(t *testing.T) {
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			got, err := V1(tt.args.r, tt.args.g, tt.args.b)
+			got, err := V1(tt.args.r, tt.args.g, tt.args.b, tt.args.i)
 			if (err != nil) != tt.wantErr {
 				t.Errorf("V1() error = %v, wantErr %v", err, tt.wantErr)
 				return
