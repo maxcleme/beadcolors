@@ -7,10 +7,10 @@ import (
 
 func TestV1(t *testing.T) {
 	type args struct {
-		r int
-		g int
-		b int
-		i int
+		r     int
+		g     int
+		b     int
+		index int
 	}
 	tests := []struct {
 		name    string
@@ -21,10 +21,10 @@ func TestV1(t *testing.T) {
 		{
 			name: "",
 			args: args{
-				r: 42,
-				g: 42,
-				b: 42,
-				i: 0,
+				r:     42,
+				g:     42,
+				b:     42,
+				index: 0,
 			},
 			want:    []string{"42", "42", "42", "#2A2A2A"},
 			wantErr: false,
@@ -32,7 +32,7 @@ func TestV1(t *testing.T) {
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			got, err := V1(tt.args.r, tt.args.g, tt.args.b, tt.args.i)
+			got, err := V1(tt.args.r, tt.args.g, tt.args.b, tt.args.index)
 			if (err != nil) != tt.wantErr {
 				t.Errorf("V1() error = %v, wantErr %v", err, tt.wantErr)
 				return
