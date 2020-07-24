@@ -9,7 +9,8 @@ import (
 )
 
 // GenFunc represent a translation between raw tuple (r,g,b,index) into something else
-// Index provides the current CSV row so that we can run specific actions based on it.
+// Index provides the index for the color palette being converted.
+// Beware that index will be reset to 0 once switching to another color palette.
 type GenFunc func(r, g, b, index int) ([]string, error)
 
 var all = map[string]GenFunc{

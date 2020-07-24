@@ -6,7 +6,6 @@ import (
 )
 
 // V2 convert [r,g,b] tuple into [rgb_r,rgb_g,rgb_b,hsl_h,hsl_s,hsl_l,lab_l,lab_a,lab_b] tuple
-// Index provides the current CSV row so that we can run specific actions based on it.
 func V2(rgbR, rgbG, rgbB, index int) ([]string, error) {
 	hslH, hslS, hslL, err := hsl(rgbR, rgbG, rgbB)
 	if err != nil {

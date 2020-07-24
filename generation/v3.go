@@ -914,7 +914,7 @@ var symbols = []string{
 }
 
 // V3 convert [r,g,b,index] tuple into [rgb_r,rgb_g,rgb_b,hsl_h,hsl_s,hsl_l,lab_l,lab_a,lab_b] tuple
-// Index is used to generate a different symbol based on the csv.
+// Index is the identifier in each colour pallette item.
 func V3(rgbR, rgbG, rgbB, index int) ([]string, error) {
 	symbol, err := getCurrentSymbol(index)
 	if err != nil {
@@ -946,7 +946,7 @@ func V3(rgbR, rgbG, rgbB, index int) ([]string, error) {
 // Gets symbol for this row based on the index provided
 func getCurrentSymbol(index int) (string, error) {
 	if len(symbols) < index {
-		return "", errors.New("No symbol with index found")
+		return "", errors.New("no symbol with index found")
 	}
 
 	return symbols[index], nil
