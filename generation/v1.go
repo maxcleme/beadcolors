@@ -6,7 +6,8 @@ import (
 )
 
 // V1 convert [r,g,b] tuple into [r,g,b,hex] tuple
-func V1(r, g, b int) ([]string, error) {
+// Index is the identifier in each colour pallette item.
+func V1(r, g, b, index int) ([]string, error) {
 	return []string{
 		strconv.Itoa(r),
 		strconv.Itoa(g),
