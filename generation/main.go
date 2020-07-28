@@ -8,12 +8,15 @@ import (
 	"strconv"
 )
 
-// GenFunc represent a translation between raw tuple (r,g,b) into something else
-type GenFunc func(r, g, b int) ([]string, error)
+// GenFunc represent a translation between raw tuple (r,g,b,index) into something else
+// Index provides the index for the color palette being converted.
+// Beware that index will be reset to 0 once switching to another color palette.
+type GenFunc func(r, g, b, index int) ([]string, error)
 
 var all = map[string]GenFunc{
 	"/v1": V1,
 	"/v2": V2,
+	"/v3": V3,
 }
 
 func main() {
@@ -45,7 +48,7 @@ func main() {
 			}
 
 			w := csv.NewWriter(dest)
-			for _, l := range lines {
+			for index, l := range lines {
 				// Raw .csv contains only 6 columns [ref, name, r, g, b, contributor]
 				if len(l) != 6 {
 					return fmt.Errorf("main: invalid raw format : %s", info.Name())
@@ -58,7 +61,7 @@ func main() {
 					return err
 				}
 
-				ss, err := gen(r, g, b)
+				ss, err := gen(r, g, b, index)
 				if err != nil {
 					return err
 				}

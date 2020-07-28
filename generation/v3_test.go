@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-func TestV2(t *testing.T) {
+func TestV3(t *testing.T) {
 	type args struct {
 		r     int
 		g     int
@@ -26,19 +26,19 @@ func TestV2(t *testing.T) {
 				b:     144,
 				index: 0,
 			},
-			want:    []string{"171", "38", "144", "312.18", "0.64", "0.41", "41.31", "62.39", "-27.65"},
+			want:    []string{"!", "171", "38", "144", "312.18", "0.64", "0.41", "41.31", "62.39", "-27.65"},
 			wantErr: false,
 		},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			got, err := V2(tt.args.r, tt.args.g, tt.args.b, tt.args.index)
+			got, err := V3(tt.args.r, tt.args.g, tt.args.b, tt.args.index)
 			if (err != nil) != tt.wantErr {
-				t.Errorf("V2() error = %v, wantErr %v", err, tt.wantErr)
+				t.Errorf("V3() error = %v, wantErr %v", err, tt.wantErr)
 				return
 			}
 			if !reflect.DeepEqual(got, tt.want) {
-				t.Errorf("V2() got = %v, want %v", got, tt.want)
+				t.Errorf("V3() got = %v, want %v", got, tt.want)
 			}
 		})
 	}
