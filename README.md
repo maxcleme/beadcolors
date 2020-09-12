@@ -13,7 +13,7 @@ This project aims to centralize, maintain and expose an exhaustive list of all b
 | Brands | Color Count | Style |
 | -------- | -------- | -------- | 
 | Hama     | 56     | Melty Bead |
-| Perler     | 66     | Melty Bead | 
+| Perler     | 78     | Melty Bead | 
 | Perler Mini     |  40   | Melty Bead | 
 | Nabbi    | 29     | Melty Bead |
 | Artkal A-2.6MM    | 144     | Melty Bead |
