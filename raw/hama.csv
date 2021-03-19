@@ -20,13 +20,13 @@ H21,Light brown,190,108,33,Jeppewl
 H22,Dark red,145,2,10,Jeppewl
 H24,Translucent Purple,104,62,154,LThanda
 H25,Translucent Brown,135,89,61,LThanda
-H26,Flesh,232,164,152,Jeppewl
+H26,Matt rose,232,164,152,Jeppewl
 H27,Beige,220,177,142,Jeppewl
 H28,Dark green,30,44,28,Jeppewl
 H29,Claret,191,1,66,Jeppewl
 H30,Burgundy,78,12,27,Jeppewl
 H31,Turquoise,72,154,185,Jeppewl
-H32,Neon Pink (Fucsia),255,32,141,LThanda
+H32,Neon Pink (Fuchsia),255,32,141,LThanda
 H33,Cerise,255,57,86,LThanda
 H34,Neon Yellow,229,239,19,LThanda
 H35,Neon Red,255,40,51,LThanda
@@ -50,8 +50,12 @@ H71,Dark grey,68,80,89,Jeppewl
 H75,Tan,183,140,109,Jeppewl
 H76,Nougat,138,89,55,Jeppewl
 H77,Cloudy white,206,209,200,Jeppewl
-H78,Light flesh,247,193,170,Jeppewl
-H79,Aprikot,248,118,51,Jeppewl
+H78,Light peach,247,193,170,Jeppewl
+H79,Apricot,248,118,51,Jeppewl
 H82,Plum,145,23,90,Jeppewl
 H83,Petrol blue,3,122,159,Jeppewl
 H84,Olive green,104,120,54,Jeppewl
+H95,Pastel rose,237,184,211,galaxy
+H96,Pastel lilac,201,185,221,galaxy
+H97,Pastel ice blue,149,221,247,galaxy
+H98,Pastel mint,155,220,191,galaxy
