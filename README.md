@@ -12,7 +12,7 @@ This project aims to centralize, maintain and expose an exhaustive list of all b
 | Brands | Color Count | Style |
 | -------- | -------- | -------- | 
 | Hama     | 62     | Melty Bead |
-| Perler     | 78     | Melty Bead | 
+| Perler     | 90     | Melty Bead | 
 | Perler Mini     |  41   | Melty Bead | 
 | Perler Caps     |  26   | Bead | 
 | Nabbi    | 29     | Melty Bead |
