@@ -6,9 +6,9 @@ H05,Red,180,6,14,Jeppewl
 H06,Pink,234,138,165,Jeppewl
 H07,Purple,113,34,151,Jeppewl
 H08,Blue,2,57,163,Jeppewl
-H09,Light blue,2,91,195,Jeppewl
+H09,Light Blue,2,91,195,Jeppewl
 H10,Green,2,118,67,Jeppewl
-H11,Light green,25,205,167,Jeppewl
+H11,Light Green,25,205,167,Jeppewl
 H12,Brown,62,39,26,Jeppewl
 H13,Transparent Red,192,36,53,LThanda
 H14,Transparent Yellow,228,170,50,galaxy
@@ -16,18 +16,18 @@ H16,Transparent Green,55,184,118,LThanda
 H17,Grey,131,143,152,Jeppewl
 H18,Black,20,19,21,Jeppewl
 H19,Clear,216,210,206,LThanda
-H20,Reddish brown,141,42,15,Jeppewl
-H21,Light brown,190,108,33,Jeppewl
-H22,Dark red,145,2,10,Jeppewl
+H20,Reddish Brown,141,42,15,Jeppewl
+H21,Light Brown,190,108,33,Jeppewl
+H22,Dark Red,145,2,10,Jeppewl
 H24,Translucent Purple,104,62,154,LThanda
 H25,Translucent Brown,135,89,61,LThanda
-H26,Matt rose,232,164,152,Jeppewl
+H26,Matt Rose,232,164,152,Jeppewl
 H27,Beige,220,177,142,Jeppewl
-H28,Dark green,30,44,28,Jeppewl
+H28,Dark Green,30,44,28,Jeppewl
 H29,Claret,191,1,66,Jeppewl
 H30,Burgundy,78,12,27,Jeppewl
 H31,Turquoise,72,154,185,Jeppewl
-H32,Neon Pink (Fuchsia),255,32,141,LThanda
+H32,Neon Fuchsia,255,32,141,LThanda
 H33,Cerise,255,57,86,Jeppewl
 H34,Neon Yellow,229,239,19,LThanda
 H35,Neon Red,255,40,51,LThanda
@@ -39,24 +39,35 @@ H40,Fluorescent Orange,254,99,11,LThanda
 H41,Fluorescent Blue,38,89,178,LThanda
 H42,Fluorescent Green,12,189,81,LThanda
 H43,Pastel Yellow,231,228,90,Jeppewl
-H44,Pastel red,249,97,96,Jeppewl
-H45,Pastel purple,142,105,205,Jeppewl
-H46,Pastel blue,81,174,228,Jeppewl
-H47,Pastel green,128,223,150,Jeppewl
-H48,Pastel pink,214,122,209,Jeppewl
+H44,Pastel Red,249,97,96,Jeppewl
+H45,Pastel Purple,142,105,205,Jeppewl
+H46,Pastel Blue,81,174,228,Jeppewl
+H47,Pastel Green,128,223,150,Jeppewl
+H48,Pastel Pink,214,122,209,Jeppewl
 H49,Azure,15,172,209,Jeppewl
-H60,Teddybear brown,240,152,30,Jeppewl
-H70,Light grey,165,179,192,Jeppewl
-H71,Dark grey,68,80,89,Jeppewl
+H60,Teddybear Brown,240,152,30,Jeppewl
+H70,Light Grey,165,179,192,Jeppewl
+H71,Dark Grey,68,80,89,Jeppewl
 H75,Tan,183,140,109,Jeppewl
 H76,Nougat,138,89,55,Jeppewl
-H77,Cloudy white,206,209,200,Jeppewl
-H78,Light peach,247,193,170,Jeppewl
+H77,Cloudy White,206,209,200,Jeppewl
+H78,Light Peach,247,193,170,Jeppewl
 H79,Apricot,248,118,51,Jeppewl
 H82,Plum,145,23,90,Jeppewl
-H83,Petrol blue,3,122,159,Jeppewl
-H84,Olive green,104,120,54,Jeppewl
-H95,Pastel rose,221,155,163,Jeppewl
-H96,Pastel lilac,180,145,173,Jeppewl
-H97,Pastel ice blue,138,175,194,Jeppewl
-H98,Pastel mint,148,204,164,Jeppewl
+H83,Petrol Blue,3,122,159,Jeppewl
+H84,Olive Green,104,120,54,Jeppewl
+H95,Pastel Rose,221,155,163,Jeppewl
+H96,Pastel Lilac,180,145,173,Jeppewl
+H97,Pastel Ice Blue,138,175,194,Jeppewl
+H98,Pastel Mint,148,204,164,Jeppewl
+H15,Transparent Blue,72,126,213,Exodeca1
+H55,Green (Glow in the Dark),250,248,237,Exodeca1
+H56,Red (Glow in the Dark),237,191,159,Exodeca1
+H57,Blue (Glow in the Dark),196,208,227,Exodeca1
+H61,Gold,217,147,80,Exodeca1
+H62,Silver,72,71,74,Exodeca1
+H63,Bronze,66,49,47,Exodeca1
+H64,Pearl,239,235,228,Exodeca1
+H72,Translucent Pink,240,151,176,Exodeca1
+H73,Translucent Aqua,89,174,245,Exodeca1
+H74,Translucent Lilac,91,85,189,Exodeca1
