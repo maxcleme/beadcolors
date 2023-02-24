@@ -34,8 +34,9 @@ jobs:
             cd generation/ && \
             go run ./... ../raw ../gen && \
             cd .. && \
-            git config --local user.email 'action@github.com' && \
-            git config --local user.name 'GitHub Action' && \
+            git config --global --add safe.directory /github/workspace
+            git config --global user.email 'action@github.com' && \
+            git config --global user.name 'GitHub Action' && \
             git add gen/ && \
             git commit --allow-empty -m 'chore(ci): update' -m '[skip-ci]' && \
             git push origin master"
