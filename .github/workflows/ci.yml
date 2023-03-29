@@ -49,7 +49,7 @@ jobs:
           WITH_V: true
       - name: Publish to registry
         if: "contains(github.ref, 'master') && !contains(toJSON(github.event.commits.*.msg), '[skip-ci]')"
-        uses: elgohr/Publish-Docker-Github-Action@master
+        uses: elgohr/Publish-Docker-Github-Action@v5
         with:
           name: maxcleme/beadcolors
           dockerfile: Dockerfile.website
