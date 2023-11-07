@@ -157,6 +157,21 @@ S156,Steel Grey,90,95,101,#5A5F65,Perlervault
 S157,Iron Grey,76,81,86,#4C5156,Perlervault
 S158,Pepper,58,62,66,#3A3E42,Perlervault
 S159,Oslo Gray,130,135,139,#82878B,Perlervault
+SE1,Moon,241,244,250,#F1F4FA,Exodeca1
+SE2,Raincloud,162,178,211,#A2B2D3,Exodeca1
+SE3,Winter,131,166,220,#83A6DC,Exodeca1
+SE4,Tide,112,216,237,#70D8ED,Exodeca1
+SE5,Aquamarine,105,227,213,#69E3D5,Exodeca1
+SE6,Neptune,42,99,200,#2A63C8,Exodeca1
+SE7,Rose Quartz,213,174,201,#D5AEC9,Exodeca1
+SE8,Mauve,175,115,154,#AF739A,Exodeca1
+SE9,Dark Mauve,112,75,109,#704B6D,Exodeca1
+SE10,Wild Berry,217,119,205,#D977CD,Exodeca1
+SE11,Sugar Plum,182,67,172,#B643AC,Exodeca1
+SE12,Desert,222,177,129,#DEB181,Exodeca1
+SE13,Peanut,188,157,119,#BC9D77,Exodeca1
+SE14,Toffee,172,127,93,#AC7F5D,Exodeca1
+SE15,Bark,163,126,102,#A37E66,Exodeca1
 SG1,Glow Yellow,198,192,180,#C6C0B4,LThanda
 SG2,Glow Pink,223,171,188,#DFABBC,LThanda
 SG3,Glow Blue,111,173,193,#6FADC1,LThanda
