@@ -12,6 +12,8 @@ This project aims to centralize, maintain and expose an exhaustive list of all b
 | Brands | Color Count | Style |
 | -------- | -------- | -------- | 
 | Hama     | 92     | Melty Bead |
+| Hama Mini-2.5MM     | 78     | Melty Bead |
+| Hama Maxi-10MM     | 25     | Melty Bead |
 | Perler     | 102     | Melty Bead | 
 | Perler Mini     |  41   | Melty Bead | 
 | Perler Caps     |  26   | Bead | 
@@ -51,7 +53,7 @@ Simply create a PR applying modification under `/raw` folder **only**.
 | Method |  Usage |
 | -------- | -------- |
 | Browsing website     | [Beadscolors](https://beadcolors.eremes.xyz/) |     
-| Static files     | <ul><li>[Hama](https://beadcolors.eremes.xyz/raw/hama.csv)</li><li>[Nabbi](https://beadcolors.eremes.xyz/raw/nabbi.csv)</li><li>[Perler](https://beadcolors.eremes.xyz/raw/perler.csv)</li><li>[Perler Mini](https://beadcolors.eremes.xyz/raw/perler_mini.csv)</li><li>[Perler Caps](https://beadcolors.eremes.xyz/raw/perler_caps.csv)</li><li>[Artkal A-2.6MM](https://beadcolors.eremes.xyz/raw/artkal_a.csv)</li><li>[Artkal C-2.6MM](https://beadcolors.eremes.xyz/raw/artkal_c.csv)</li><li>[Artkal M-2.6MM](https://beadcolors.eremes.xyz/raw/artkal_m.csv)</li><li>[Artkal R-5MM](https://beadcolors.eremes.xyz/raw/artkal_r.csv)</li><li>[Artkal S-5MM](https://beadcolors.eremes.xyz/raw/artkal_s.csv)</li><li>[Yant](https://beadcolors.eremes.xyz/raw/yant.csv)</li><li>[Diamond Dotz](https://beadcolors.eremes.xyz/raw/diamondDotz.csv)</li></ul>     |
+| Static files     | <ul><li>[Hama](https://beadcolors.eremes.xyz/raw/hama.csv)</li><li>[Hama Mini-2.5MM](https://beadcolors.eremes.xyz/raw/hama_mini.csv)</li><li>[Hama Maxi-10MM](https://beadcolors.eremes.xyz/raw/hama_maxi.csv)</li><li>[Nabbi](https://beadcolors.eremes.xyz/raw/nabbi.csv)</li><li>[Perler](https://beadcolors.eremes.xyz/raw/perler.csv)</li><li>[Perler Mini](https://beadcolors.eremes.xyz/raw/perler_mini.csv)</li><li>[Perler Caps](https://beadcolors.eremes.xyz/raw/perler_caps.csv)</li><li>[Artkal A-2.6MM](https://beadcolors.eremes.xyz/raw/artkal_a.csv)</li><li>[Artkal C-2.6MM](https://beadcolors.eremes.xyz/raw/artkal_c.csv)</li><li>[Artkal M-2.6MM](https://beadcolors.eremes.xyz/raw/artkal_m.csv)</li><li>[Artkal R-5MM](https://beadcolors.eremes.xyz/raw/artkal_r.csv)</li><li>[Artkal S-5MM](https://beadcolors.eremes.xyz/raw/artkal_s.csv)</li><li>[Yant](https://beadcolors.eremes.xyz/raw/yant.csv)</li><li>[Diamond Dotz](https://beadcolors.eremes.xyz/raw/diamondDotz.csv)</li></ul>     |
 
 ## Automation
 
