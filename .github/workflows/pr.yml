@@ -1,0 +1,29 @@
+name: PR Checks
+
+on: [pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+        with:
+          submodules: "recursive"
+      - name: Test
+        uses: docker://golang:latest
+        with:
+          entrypoint: /bin/sh
+          args: |
+            -c "\
+            cd generation/ && go test ./...
+      - name: Test Generation
+        uses: docker://golang:latest
+        with:
+          entrypoint: /bin/sh
+          args: |
+            -c "\
+            cd generation/ && go run ./... ../raw ../gen
+      - name: Build
+        uses: docker/build-push-action@v6
+        with:
+          push: false
