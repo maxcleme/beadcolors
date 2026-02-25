@@ -1,4 +1,4 @@
-# Bead Colors
+# BeadColors
 
 ## Context
 
