@@ -14,7 +14,7 @@ This project aims to centralize, maintain and expose an exhaustive list of all b
 | Hama Midi    | 92     | Melty Bead |
 | Hama Mini     | 78     | Melty Bead |
 | Hama Maxi     | 25     | Melty Bead |
-| Perler     | 102     | Melty Bead | 
+| Perler     | 103     | Melty Bead | 
 | Perler Mini     |  41   | Melty Bead | 
 | Perler Caps     |  26   | Bead | 
 | Nabbi    | 30     | Melty Bead |
