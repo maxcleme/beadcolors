@@ -6,24 +6,20 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
+      - uses: actions/checkout@v6
         with:
           submodules: "recursive"
-      - name: Test
-        uses: docker://golang:latest
+      - name: Setup Go
+        uses: actions/setup-go@v6
         with:
-          entrypoint: /bin/sh
-          args: |
-            -c "\
-            cd generation/ && go test ./...
+          go-version-file: generation/go.mod
+      - name: Unit Test
+        run: |
+          cd generation/ && go test ./...
       - name: Test Generation
-        uses: docker://golang:latest
-        with:
-          entrypoint: /bin/sh
-          args: |
-            -c "\
-            cd generation/ && go run ./... ../raw ../gen
+        run: |
+          cd generation/ && go run ./... ../raw ../gen
       - name: Build
-        uses: docker/build-push-action@v6
+        uses: docker/build-push-action@v7
         with:
           push: false
